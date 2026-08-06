@@ -1,0 +1,761 @@
+start_s,start_hms,end_s,end_hms,duration_s,speaker,addressees,mode,description,share_Riad,share_Max,share_Kush,share_Alicia
+0.0,00:00,3.4,00:03,3.4,Max,Riad,single,Max -> Riad,0.884,0.0,0.047,0.069
+0.0,00:00,2.15,00:02,2.15,Kush,Max,single,Kush -> Max,0.174,0.785,0.0,0.041
+0.01,00:00,4.79,00:05,4.78,Riad,Alicia,single,Riad -> Alicia,0.0,0.105,0.276,0.62
+2.04,00:02,3.31,00:03,1.27,Alicia,Riad,single,Alicia -> Riad,0.964,0.015,0.021,0.0
+5.22,00:05,5.42,00:05,0.2,Kush,Alicia,single,Kush -> Alicia,0.01,0.0,0.0,0.99
+6.08,00:06,6.52,00:07,0.44,Kush,Max,single,Kush -> Max,0.0,1.0,0.0,0.0
+6.81,00:07,7.03,00:07,0.22,Riad,Kush,single,Riad -> Kush,0.0,0.0,0.681,0.319
+7.82,00:08,8.24,00:08,0.42,Alicia,Kush,single,Alicia -> Kush,0.04,0.006,0.954,0.0
+7.87,00:08,9.45,00:09,1.58,Kush,Riad|Alicia|Max,all,"Kush -> Riad, Alicia, Max (ALL)",0.462,0.217,0.0,0.321
+8.39,00:08,8.88,00:09,0.49,Riad,Max,single,Riad -> Max,0.0,0.844,0.144,0.012
+8.4,00:08,8.88,00:09,0.48,Max,Riad,single,Max -> Riad,0.95,0.0,0.033,0.017
+8.6,00:09,9.44,00:09,0.84,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.333,0.222,0.445,0.0
+9.21,00:09,9.92,00:10,0.71,Riad,Max,single,Riad -> Max,0.0,0.914,0.002,0.083
+9.47,00:09,10.2,00:10,0.73,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.478,0.0,0.047,0.476
+10.09,00:10,10.81,00:11,0.72,Alicia,Kush,single,Alicia -> Kush,0.047,0.17,0.782,0.0
+10.16,00:10,10.85,00:11,0.69,Kush,Alicia,single,Kush -> Alicia,0.028,0.091,0.0,0.881
+10.49,00:10,11.9,00:12,1.41,Max,Riad,single,Max -> Riad,0.574,0.0,0.18,0.246
+10.54,00:11,10.87,00:11,0.33,Riad,Max,single,Riad -> Max,0.0,0.954,0.029,0.017
+12.04,00:12,12.34,00:12,0.3,Kush,Max|Alicia,group,"Kush -> Max, Alicia (group)",0.015,0.538,0.0,0.447
+12.6,00:13,12.91,00:13,0.31,Max,Riad,single,Max -> Riad,0.994,0.0,0.006,0.0
+12.64,00:13,12.9,00:13,0.26,Riad,Max,single,Riad -> Max,0.0,0.999,0.001,0.0
+12.87,00:13,13.33,00:13,0.46,Kush,Alicia,single,Kush -> Alicia,0.135,0.016,0.0,0.849
+12.88,00:13,13.29,00:13,0.41,Alicia,Kush,single,Alicia -> Kush,0.004,0.003,0.993,0.0
+13.29,00:13,13.86,00:14,0.57,Max,Riad,single,Max -> Riad,0.82,0.0,0.046,0.134
+13.32,00:13,13.81,00:14,0.49,Riad,Max,single,Riad -> Max,0.0,0.997,0.002,0.001
+13.74,00:14,14.09,00:14,0.35,Kush,Alicia,single,Kush -> Alicia,0.03,0.043,0.0,0.927
+13.75,00:14,14.02,00:14,0.27,Alicia,Kush,single,Alicia -> Kush,0.023,0.081,0.896,0.0
+14.11,00:14,14.6,00:15,0.49,Max,Riad,single,Max -> Riad,0.97,0.0,0.013,0.016
+14.12,00:14,14.61,00:15,0.49,Riad,Max,single,Riad -> Max,0.0,0.971,0.019,0.01
+14.77,00:15,15.01,00:15,0.24,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+16.29,00:16,18.33,00:18,2.04,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.548,0.0,0.227,0.225
+16.57,00:17,20.45,00:20,3.88,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.497,0.228,0.275
+17.12,00:17,17.76,00:18,0.64,Kush,Alicia,single,Kush -> Alicia,0.118,0.086,0.0,0.796
+18.15,00:18,20.05,00:20,1.9,Kush,Alicia,single,Kush -> Alicia,0.215,0.135,0.0,0.65
+18.34,00:18,20.77,00:21,2.43,Alicia,Kush,single,Alicia -> Kush,0.161,0.277,0.562,0.0
+18.69,00:19,19.33,00:19,0.64,Max,Riad,single,Max -> Riad,0.755,0.0,0.055,0.19
+19.51,00:20,20.37,00:20,0.86,Max,Alicia|Kush|Riad,all,"Max -> Alicia, Kush, Riad (ALL)",0.325,0.0,0.329,0.346
+20.22,00:20,20.76,00:21,0.54,Kush,Alicia,single,Kush -> Alicia,0.026,0.025,0.0,0.949
+20.58,00:21,21.4,00:21,0.82,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.362,0.0,0.341,0.297
+20.68,00:21,21.97,00:22,1.29,Riad,Kush|Max|Alicia,all,"Riad -> Kush, Max, Alicia (ALL)",0.0,0.298,0.441,0.261
+20.92,00:21,21.45,00:21,0.53,Kush,Alicia,single,Kush -> Alicia,0.094,0.017,0.0,0.889
+20.93,00:21,21.45,00:21,0.52,Alicia,Kush,single,Alicia -> Kush,0.016,0.018,0.966,0.0
+21.66,00:22,22.25,00:22,0.59,Max,Riad,single,Max -> Riad,0.943,0.0,0.048,0.009
+22.41,00:22,23.0,00:23,0.59,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+22.47,00:22,22.92,00:23,0.45,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+22.86,00:23,24.92,00:25,2.06,Kush,Alicia,single,Kush -> Alicia,0.089,0.214,0.0,0.697
+22.87,00:23,23.79,00:24,0.92,Alicia,Kush,single,Alicia -> Kush,0.142,0.056,0.803,0.0
+23.96,00:24,24.75,00:25,0.79,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.361,0.193,0.446,0.0
+24.29,00:24,25.41,00:25,1.12,Riad,Max,single,Riad -> Max,0.0,0.698,0.037,0.265
+24.4,00:24,24.67,00:25,0.27,Max,Riad,single,Max -> Riad,0.989,0.0,0.003,0.008
+24.87,00:25,25.33,00:25,0.46,Max,Riad,single,Max -> Riad,0.918,0.0,0.082,0.0
+25.34,00:25,27.66,00:28,2.32,Kush,Alicia|Max|Riad,all,"Kush -> Alicia, Max, Riad (ALL)",0.223,0.315,0.0,0.462
+25.65,00:26,27.7,00:28,2.05,Riad,Max,single,Riad -> Max,0.0,0.606,0.206,0.189
+25.67,00:26,27.02,00:27,1.35,Max,Riad,single,Max -> Riad,0.603,0.0,0.131,0.266
+25.9,00:26,27.6,00:28,1.7,Alicia,Max|Kush|Riad,all,"Alicia -> Max, Kush, Riad (ALL)",0.259,0.461,0.28,0.0
+27.95,00:28,28.48,00:28,0.53,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+27.96,00:28,28.52,00:29,0.56,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+28.42,00:28,30.52,00:31,2.1,Kush,Alicia,single,Kush -> Alicia,0.243,0.138,0.0,0.619
+28.44,00:28,30.39,00:30,1.95,Alicia,Kush,single,Alicia -> Kush,0.166,0.217,0.616,0.0
+29.0,00:29,29.29,00:29,0.29,Max,Alicia|Kush,group,"Max -> Alicia, Kush (group)",0.123,0.0,0.367,0.51
+29.58,00:30,29.9,00:30,0.32,Max,Riad,single,Max -> Riad,0.703,0.0,0.154,0.143
+29.59,00:30,29.86,00:30,0.27,Riad,Max,single,Riad -> Max,0.0,0.677,0.151,0.172
+30.07,00:30,30.32,00:30,0.25,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.428,0.0,0.304,0.269
+30.08,00:30,31.88,00:32,1.8,Riad,Max,single,Riad -> Max,0.0,0.602,0.132,0.266
+30.84,00:31,31.52,00:32,0.68,Max,Riad,single,Max -> Riad,0.984,0.0,0.008,0.008
+31.11,00:31,31.49,00:31,0.38,Kush,Riad,single,Kush -> Riad,0.715,0.035,0.0,0.249
+31.11,00:31,31.5,00:32,0.39,Alicia,Riad,single,Alicia -> Riad,0.844,0.017,0.139,0.0
+31.72,00:32,32.07,00:32,0.35,Alicia,Kush,single,Alicia -> Kush,0.011,0.0,0.989,0.0
+31.73,00:32,32.07,00:32,0.34,Kush,Alicia,single,Kush -> Alicia,0.001,0.0,0.0,0.999
+32.23,00:32,33.18,00:33,0.95,Alicia,Kush,single,Alicia -> Kush,0.063,0.087,0.85,0.0
+32.27,00:32,33.17,00:33,0.9,Kush,Alicia,single,Kush -> Alicia,0.032,0.107,0.0,0.862
+32.8,00:33,33.12,00:33,0.32,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+32.81,00:33,33.06,00:33,0.25,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+33.37,00:33,36.21,00:36,2.84,Kush,Alicia,single,Kush -> Alicia,0.142,0.141,0.0,0.717
+33.39,00:33,33.89,00:34,0.5,Alicia,Kush,single,Alicia -> Kush,0.0,0.009,0.991,0.0
+33.67,00:34,33.89,00:34,0.22,Max,Alicia,single,Max -> Alicia,0.0,0.0,0.177,0.823
+33.81,00:34,35.25,00:35,1.44,Riad,Max,single,Riad -> Max,0.0,0.584,0.157,0.26
+34.06,00:34,34.63,00:35,0.57,Max,Riad,single,Max -> Riad,0.985,0.0,0.003,0.012
+34.3,00:34,36.19,00:36,1.89,Alicia,Max|Kush|Riad,all,"Alicia -> Max, Kush, Riad (ALL)",0.219,0.435,0.346,0.0
+35.15,00:35,37.15,00:37,2.0,Max,Riad,single,Max -> Riad,0.894,0.0,0.027,0.08
+35.45,00:35,36.01,00:36,0.56,Riad,Max,single,Riad -> Max,0.0,0.721,0.269,0.01
+36.18,00:36,37.06,00:37,0.88,Riad,Max,single,Riad -> Max,0.0,0.955,0.028,0.017
+36.91,00:37,37.37,00:37,0.46,Kush,Alicia,single,Kush -> Alicia,0.107,0.015,0.0,0.878
+36.92,00:37,37.37,00:37,0.45,Alicia,Kush,single,Alicia -> Kush,0.03,0.027,0.943,0.0
+37.67,00:38,38.73,00:39,1.06,Max,Riad,single,Max -> Riad,0.729,0.0,0.058,0.213
+37.68,00:38,38.6,00:39,0.92,Riad,Max,single,Riad -> Max,0.0,0.771,0.123,0.106
+37.79,00:38,39.39,00:39,1.6,Kush,Alicia|Riad,group,"Kush -> Alicia, Riad (group)",0.327,0.13,0.0,0.543
+37.81,00:38,39.93,00:40,2.12,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.309,0.179,0.512,0.0
+39.55,00:40,39.83,00:40,0.28,Kush,Alicia,single,Kush -> Alicia,0.17,0.06,0.0,0.769
+40.19,00:40,40.39,00:40,0.2,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+40.19,00:40,40.72,00:41,0.53,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+40.67,00:41,43.3,00:43,2.63,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.162,0.322,0.0,0.516
+40.71,00:41,43.07,00:43,2.36,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.243,0.219,0.538,0.0
+40.97,00:41,41.42,00:41,0.45,Riad,Max,single,Riad -> Max,0.0,0.649,0.119,0.232
+41.5,00:42,42.1,00:42,0.6,Max,Riad,single,Max -> Riad,0.721,0.0,0.244,0.035
+43.65,00:44,45.08,00:45,1.43,Kush,Alicia,single,Kush -> Alicia,0.039,0.248,0.0,0.713
+43.65,00:44,45.09,00:45,1.44,Alicia,Kush,single,Alicia -> Kush,0.099,0.295,0.606,0.0
+43.85,00:44,44.91,00:45,1.06,Riad,Max,single,Riad -> Max,0.0,0.596,0.071,0.332
+44.29,00:44,44.81,00:45,0.52,Max,Riad,single,Max -> Riad,0.993,0.0,0.002,0.005
+46.19,00:46,46.95,00:47,0.76,Kush,Alicia,single,Kush -> Alicia,0.0,0.052,0.0,0.948
+46.19,00:46,46.85,00:47,0.66,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+46.82,00:47,47.39,00:47,0.57,Riad,Max|Kush,group,"Riad -> Max, Kush (group)",0.0,0.501,0.307,0.192
+47.41,00:47,48.55,00:49,1.14,Kush,Alicia,single,Kush -> Alicia,0.161,0.264,0.0,0.575
+47.61,00:48,48.32,00:48,0.71,Riad,Max,single,Riad -> Max,0.0,0.642,0.127,0.231
+47.74,00:48,47.97,00:48,0.23,Alicia,Riad,single,Alicia -> Riad,0.936,0.022,0.042,0.0
+48.13,00:48,48.67,00:49,0.54,Max,Riad,single,Max -> Riad,0.602,0.0,0.037,0.361
+48.18,00:48,48.51,00:49,0.33,Alicia,Max,single,Alicia -> Max,0.122,0.681,0.197,0.0
+48.94,00:49,49.59,00:50,0.65,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+49.03,00:49,49.59,00:50,0.56,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+50.18,00:50,50.53,00:51,0.35,Max,Riad,single,Max -> Riad,0.932,0.0,0.0,0.068
+51.09,00:51,52.83,00:53,1.74,Kush,Alicia,single,Kush -> Alicia,0.007,0.118,0.0,0.875
+51.14,00:51,52.63,00:53,1.49,Alicia,Kush,single,Alicia -> Kush,0.017,0.07,0.914,0.0
+51.97,00:52,54.69,00:55,2.72,Riad,Max,single,Riad -> Max,0.0,0.588,0.103,0.309
+52.84,00:53,53.34,00:53,0.5,Max,Riad,single,Max -> Riad,0.855,0.0,0.097,0.049
+53.49,00:53,53.75,00:54,0.26,Kush,Alicia,single,Kush -> Alicia,0.033,0.049,0.0,0.919
+53.49,00:53,54.54,00:55,1.05,Alicia,Max|Riad|Kush,all,"Alicia -> Max, Riad, Kush (ALL)",0.34,0.453,0.208,0.0
+53.54,00:54,54.32,00:54,0.78,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.462,0.0,0.103,0.435
+54.0,00:54,55.45,00:55,1.45,Kush,Alicia,single,Kush -> Alicia,0.108,0.177,0.0,0.715
+54.7,00:55,55.32,00:55,0.62,Alicia,Kush,single,Alicia -> Kush,0.002,0.003,0.995,0.0
+55.04,00:55,55.46,00:55,0.42,Max,Riad,single,Max -> Riad,0.624,0.0,0.072,0.305
+55.06,00:55,55.45,00:55,0.39,Riad,Kush|Max,group,"Riad -> Kush, Max (group)",0.0,0.425,0.512,0.063
+55.67,00:56,56.42,00:56,0.75,Max,Riad,single,Max -> Riad,0.852,0.0,0.052,0.096
+55.68,00:56,56.41,00:56,0.73,Riad,Max,single,Riad -> Max,0.0,0.781,0.127,0.092
+55.92,00:56,57.07,00:57,1.15,Kush,Alicia,single,Kush -> Alicia,0.248,0.102,0.0,0.65
+55.92,00:56,59.06,00:59,3.14,Alicia,Kush,single,Alicia -> Kush,0.129,0.159,0.711,0.0
+57.19,00:57,60.33,01:00,3.14,Riad,Max,single,Riad -> Max,0.0,0.564,0.149,0.287
+57.28,00:57,57.56,00:58,0.28,Max,Riad,single,Max -> Riad,0.984,0.0,0.009,0.007
+57.34,00:57,59.07,00:59,1.73,Kush,Alicia,single,Kush -> Alicia,0.109,0.249,0.0,0.642
+57.98,00:58,58.41,00:58,0.43,Max,Kush,single,Max -> Kush,0.04,0.0,0.63,0.33
+58.71,00:59,59.73,01:00,1.02,Max,Kush,single,Max -> Kush,0.106,0.0,0.57,0.325
+59.24,00:59,59.73,01:00,0.49,Kush,Alicia,single,Kush -> Alicia,0.024,0.168,0.0,0.809
+59.25,00:59,59.73,01:00,0.48,Alicia,Kush,single,Alicia -> Kush,0.005,0.015,0.98,0.0
+59.92,01:00,60.2,01:00,0.28,Kush,Alicia,single,Kush -> Alicia,0.166,0.147,0.0,0.687
+59.92,01:00,60.2,01:00,0.28,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.143,0.316,0.541,0.0
+60.14,01:00,60.7,01:01,0.56,Max,Riad,single,Max -> Riad,0.825,0.0,0.033,0.141
+60.37,01:00,61.54,01:02,1.17,Alicia,Kush,single,Alicia -> Kush,0.185,0.238,0.576,0.0
+60.38,01:00,61.53,01:02,1.15,Kush,Alicia,single,Kush -> Alicia,0.007,0.009,0.0,0.984
+60.89,01:01,61.97,01:02,1.08,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+60.9,01:01,61.95,01:02,1.05,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+62.16,01:02,62.65,01:03,0.49,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+62.17,01:02,62.65,01:03,0.48,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+62.73,01:03,64.13,01:04,1.4,Riad,Max,single,Riad -> Max,0.0,0.712,0.159,0.129
+62.73,01:03,63.47,01:03,0.74,Max,Riad,single,Max -> Riad,0.983,0.0,0.007,0.01
+63.37,01:03,63.72,01:04,0.35,Alicia,Kush,single,Alicia -> Kush,0.049,0.166,0.785,0.0
+63.38,01:03,63.63,01:04,0.25,Kush,Alicia,single,Kush -> Alicia,0.002,0.006,0.0,0.992
+63.64,01:04,63.96,01:04,0.32,Max,Riad,single,Max -> Riad,0.992,0.0,0.002,0.006
+63.93,01:04,64.38,01:04,0.45,Alicia,Kush,single,Alicia -> Kush,0.0,0.009,0.991,0.0
+64.05,01:04,64.36,01:04,0.31,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+64.52,01:05,65.51,01:06,0.99,Riad,Max,single,Riad -> Max,0.0,0.87,0.008,0.122
+64.54,01:05,65.08,01:05,0.54,Max,Riad,single,Max -> Riad,0.902,0.0,0.0,0.098
+64.78,01:05,66.26,01:06,1.48,Kush,Alicia,single,Kush -> Alicia,0.142,0.144,0.0,0.714
+64.89,01:05,65.35,01:05,0.46,Alicia,Kush,single,Alicia -> Kush,0.011,0.01,0.979,0.0
+65.26,01:05,65.52,01:06,0.26,Max,Riad,single,Max -> Riad,0.74,0.0,0.036,0.224
+65.52,01:06,66.26,01:06,0.74,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.243,0.213,0.544,0.0
+66.07,01:06,68.04,01:08,1.97,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.537,0.216,0.246
+66.09,01:06,66.62,01:07,0.53,Max,Riad,single,Max -> Riad,0.734,0.0,0.038,0.228
+66.49,01:06,66.79,01:07,0.3,Alicia,Riad|Max,group,"Alicia -> Riad, Max (group)",0.49,0.457,0.053,0.0
+66.57,01:07,66.8,01:07,0.23,Kush,Alicia,single,Kush -> Alicia,0.081,0.033,0.0,0.886
+66.98,01:07,67.44,01:07,0.46,Kush,Alicia,single,Kush -> Alicia,0.102,0.071,0.0,0.827
+66.99,01:07,67.42,01:07,0.43,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.193,0.34,0.467,0.0
+67.26,01:07,67.67,01:08,0.41,Max,Riad,single,Max -> Riad,0.795,0.0,0.003,0.202
+67.67,01:08,68.6,01:09,0.93,Kush,Alicia,single,Kush -> Alicia,0.038,0.203,0.0,0.759
+67.86,01:08,68.59,01:09,0.73,Alicia,Kush,single,Alicia -> Kush,0.17,0.073,0.757,0.0
+68.33,01:08,68.53,01:09,0.2,Riad,Max,single,Riad -> Max,0.0,0.892,0.028,0.08
+68.33,01:08,68.53,01:09,0.2,Max,Riad,single,Max -> Riad,0.955,0.0,0.021,0.024
+68.93,01:09,69.63,01:10,0.7,Riad,Max,single,Riad -> Max,0.0,0.948,0.052,0.0
+69.03,01:09,69.64,01:10,0.61,Max,Riad,single,Max -> Riad,0.949,0.0,0.051,0.0
+69.98,01:10,70.65,01:11,0.67,Kush,Alicia,single,Kush -> Alicia,0.0,0.012,0.0,0.988
+69.98,01:10,70.66,01:11,0.68,Alicia,Kush,single,Alicia -> Kush,0.0,0.011,0.989,0.0
+70.4,01:10,71.43,01:11,1.03,Riad,Max,single,Riad -> Max,0.0,0.655,0.046,0.298
+70.46,01:10,71.41,01:11,0.95,Max,Alicia,single,Max -> Alicia,0.28,0.0,0.136,0.584
+71.93,01:12,73.51,01:14,1.58,Alicia,Kush,single,Alicia -> Kush,0.0,0.042,0.958,0.0
+71.94,01:12,72.88,01:13,0.94,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+72.26,01:12,73.66,01:14,1.4,Max,Alicia|Kush,group,"Max -> Alicia, Kush (group)",0.147,0.0,0.395,0.457
+72.27,01:12,73.66,01:14,1.39,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.404,0.28,0.316
+73.2,01:13,73.43,01:13,0.23,Kush,Riad|Alicia,group,"Kush -> Riad, Alicia (group)",0.521,0.004,0.0,0.475
+74.72,01:15,77.0,01:17,2.28,Alicia,Kush,single,Alicia -> Kush,0.303,0.141,0.556,0.0
+74.76,01:15,75.86,01:16,1.1,Riad,Alicia|Max,group,"Riad -> Alicia, Max (group)",0.0,0.297,0.162,0.541
+74.76,01:15,75.86,01:16,1.1,Max,Riad|Alicia|Kush,all,"Max -> Riad, Alicia, Kush (ALL)",0.502,0.0,0.204,0.294
+74.76,01:15,75.45,01:15,0.69,Kush,Alicia,single,Kush -> Alicia,0.01,0.008,0.0,0.982
+75.67,01:16,76.44,01:16,0.77,Kush,Alicia,single,Kush -> Alicia,0.085,0.041,0.0,0.874
+76.14,01:16,76.83,01:17,0.69,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.461,0.225,0.314
+76.14,01:16,76.92,01:17,0.78,Max,Riad,single,Max -> Riad,0.629,0.0,0.142,0.229
+77.59,01:18,78.21,01:18,0.62,Kush,Alicia,single,Kush -> Alicia,0.088,0.027,0.0,0.884
+77.6,01:18,78.74,01:19,1.14,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.357,0.15,0.493,0.0
+77.88,01:18,78.71,01:19,0.83,Riad,Max,single,Riad -> Max,0.0,0.707,0.054,0.239
+77.93,01:18,79.41,01:19,1.48,Max,Riad,single,Max -> Riad,0.754,0.0,0.096,0.15
+78.37,01:18,78.68,01:19,0.31,Kush,Riad|Max,group,"Kush -> Riad, Max (group)",0.434,0.367,0.0,0.198
+78.95,01:19,79.2,01:19,0.25,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.192,0.355,0.0,0.453
+79.4,01:19,79.79,01:20,0.39,Kush,Alicia,single,Kush -> Alicia,0.046,0.023,0.0,0.931
+79.47,01:19,79.78,01:20,0.31,Alicia,Kush,single,Alicia -> Kush,0.002,0.001,0.997,0.0
+79.76,01:20,80.56,01:21,0.8,Max,Riad,single,Max -> Riad,0.815,0.0,0.016,0.169
+79.79,01:20,80.3,01:20,0.51,Riad,Max,single,Riad -> Max,0.0,0.999,0.0,0.001
+80.27,01:20,80.78,01:21,0.51,Kush,Alicia,single,Kush -> Alicia,0.175,0.016,0.0,0.809
+80.28,01:20,80.78,01:21,0.5,Alicia,Kush,single,Alicia -> Kush,0.007,0.001,0.992,0.0
+80.75,01:21,81.41,01:21,0.66,Riad,Max,single,Riad -> Max,0.0,0.72,0.053,0.226
+80.76,01:21,81.56,01:22,0.8,Max,Alicia|Riad,group,"Max -> Alicia, Riad (group)",0.31,0.0,0.195,0.495
+83.01,01:23,83.31,01:23,0.3,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+83.06,01:23,83.34,01:23,0.28,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+85.43,01:25,85.69,01:26,0.26,Max,Kush,single,Max -> Kush,0.0,0.0,0.737,0.263
+85.52,01:26,86.51,01:27,0.99,Alicia,Kush,single,Alicia -> Kush,0.076,0.216,0.708,0.0
+85.59,01:26,86.27,01:26,0.68,Kush,Alicia,single,Kush -> Alicia,0.073,0.278,0.0,0.649
+86.05,01:26,87.83,01:28,1.78,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.453,0.0,0.275,0.272
+86.06,01:26,86.77,01:27,0.71,Riad,Max,single,Riad -> Max,0.0,0.584,0.112,0.304
+87.78,01:28,88.26,01:28,0.48,Alicia,Kush,single,Alicia -> Kush,0.0,0.158,0.842,0.0
+87.79,01:28,88.16,01:28,0.37,Kush,Alicia,single,Kush -> Alicia,0.0,0.199,0.0,0.801
+88.04,01:28,88.77,01:29,0.73,Max,Riad,single,Max -> Riad,0.838,0.0,0.103,0.059
+90.14,01:30,90.5,01:30,0.36,Riad,Alicia,single,Riad -> Alicia,0.0,0.319,0.12,0.561
+90.25,01:30,90.52,01:31,0.27,Alicia,Kush,single,Alicia -> Kush,0.232,0.052,0.716,0.0
+90.69,01:31,92.24,01:32,1.55,Alicia,Max|Riad|Kush,all,"Alicia -> Max, Riad, Kush (ALL)",0.335,0.335,0.33,0.0
+90.74,01:31,91.01,01:31,0.27,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.522,0.004,0.473
+90.77,01:31,91.01,01:31,0.24,Max,Riad,single,Max -> Riad,0.953,0.0,0.001,0.047
+91.22,01:31,91.74,01:32,0.52,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.544,0.0,0.177,0.279
+91.25,01:31,94.15,01:34,2.9,Kush,Alicia|Riad|Max,all,"Kush -> Alicia, Riad, Max (ALL)",0.364,0.236,0.0,0.4
+91.76,01:32,94.88,01:35,3.12,Riad,Max|Kush,group,"Riad -> Max, Kush (group)",0.0,0.513,0.357,0.13
+91.9,01:32,92.45,01:32,0.55,Max,Riad,single,Max -> Riad,0.782,0.0,0.063,0.155
+93.54,01:34,94.63,01:35,1.09,Alicia,Max|Riad|Kush,all,"Alicia -> Max, Riad, Kush (ALL)",0.363,0.382,0.255,0.0
+93.99,01:34,94.78,01:35,0.79,Max,Riad,single,Max -> Riad,0.911,0.0,0.089,0.0
+94.81,01:35,95.31,01:35,0.5,Alicia,Kush,single,Alicia -> Kush,0.069,0.017,0.914,0.0
+94.84,01:35,97.01,01:37,2.17,Kush,Alicia,single,Kush -> Alicia,0.093,0.208,0.0,0.699
+95.31,01:35,96.63,01:37,1.32,Max,Kush|Riad|Alicia,all,"Max -> Kush, Riad, Alicia (ALL)",0.292,0.0,0.431,0.277
+95.33,01:35,97.48,01:37,2.15,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.415,0.212,0.373
+95.5,01:36,97.45,01:37,1.95,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.286,0.225,0.489,0.0
+97.05,01:37,98.66,01:39,1.61,Max,Alicia,single,Max -> Alicia,0.308,0.0,0.018,0.675
+97.19,01:37,97.61,01:38,0.42,Kush,Alicia,single,Kush -> Alicia,0.061,0.331,0.0,0.608
+97.64,01:38,98.56,01:39,0.92,Alicia,Max,single,Alicia -> Max,0.244,0.659,0.097,0.0
+97.71,01:38,98.09,01:38,0.38,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.515,0.012,0.473
+98.01,01:38,99.37,01:39,1.36,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.173,0.285,0.0,0.542
+98.54,01:39,99.87,01:40,1.33,Riad,Max,single,Riad -> Max,0.0,0.616,0.297,0.087
+98.84,01:39,99.08,01:39,0.24,Max,Riad,single,Max -> Riad,0.993,0.0,0.007,0.001
+99.55,01:40,99.88,01:40,0.33,Kush,Riad|Max,group,"Kush -> Riad, Max (group)",0.536,0.464,0.0,0.0
+99.94,01:40,102.01,01:42,2.07,Alicia,Kush,single,Alicia -> Kush,0.095,0.214,0.691,0.0
+100.05,01:40,100.65,01:41,0.6,Riad,Alicia,single,Riad -> Alicia,0.0,0.211,0.061,0.728
+100.44,01:40,101.16,01:41,0.72,Max,Alicia,single,Max -> Alicia,0.089,0.0,0.355,0.556
+100.44,01:40,101.91,01:42,1.47,Kush,Alicia,single,Kush -> Alicia,0.041,0.273,0.0,0.686
+100.88,01:41,102.44,01:42,1.56,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.546,0.221,0.233
+102.02,01:42,102.3,01:42,0.28,Max,Riad,single,Max -> Riad,0.74,0.0,0.054,0.206
+102.25,01:42,102.74,01:43,0.49,Kush,Alicia,single,Kush -> Alicia,0.004,0.084,0.0,0.912
+102.27,01:42,102.88,01:43,0.61,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.157,0.412,0.431,0.0
+102.75,01:43,103.23,01:43,0.48,Riad,Max,single,Riad -> Max,0.0,0.924,0.007,0.07
+102.85,01:43,103.33,01:43,0.48,Max,Riad,single,Max -> Riad,0.758,0.0,0.012,0.23
+103.09,01:43,103.44,01:43,0.35,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.172,0.378,0.45,0.0
+103.38,01:43,103.93,01:44,0.55,Kush,Alicia,single,Kush -> Alicia,0.003,0.019,0.0,0.978
+103.86,01:44,104.47,01:44,0.61,Alicia,Max|Riad|Kush,all,"Alicia -> Max, Riad, Kush (ALL)",0.261,0.496,0.242,0.0
+103.94,01:44,104.42,01:44,0.48,Riad,Max,single,Riad -> Max,0.0,0.745,0.005,0.25
+104.02,01:44,104.75,01:45,0.73,Max,Alicia,single,Max -> Alicia,0.0,0.0,0.13,0.87
+104.74,01:45,106.59,01:47,1.85,Kush,Alicia,single,Kush -> Alicia,0.148,0.181,0.0,0.671
+105.24,01:45,107.1,01:47,1.86,Riad,Alicia|Max,group,"Riad -> Alicia, Max (group)",0.0,0.461,0.017,0.522
+105.46,01:45,106.2,01:46,0.74,Alicia,Max|Riad,group,"Alicia -> Max, Riad (group)",0.374,0.502,0.124,0.0
+106.1,01:46,106.73,01:47,0.63,Max,Riad,single,Max -> Riad,0.681,0.0,0.071,0.248
+106.38,01:46,106.61,01:47,0.23,Alicia,Riad,single,Alicia -> Riad,0.579,0.192,0.228,0.0
+106.86,01:47,107.16,01:47,0.3,Alicia,Max,single,Alicia -> Max,0.093,0.907,0.0,0.0
+106.89,01:47,107.12,01:47,0.23,Max,Alicia,single,Max -> Alicia,0.251,0.0,0.0,0.749
+107.15,01:47,108.76,01:49,1.61,Kush,Alicia,single,Kush -> Alicia,0.034,0.378,0.0,0.589
+107.35,01:47,107.68,01:48,0.33,Max,Alicia,single,Max -> Alicia,0.0,0.0,0.116,0.884
+107.43,01:47,107.64,01:48,0.21,Alicia,Max,single,Alicia -> Max,0.0,0.877,0.123,0.0
+107.66,01:48,109.35,01:49,1.69,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.509,0.037,0.454
+107.94,01:48,108.66,01:49,0.72,Max,Alicia|Riad,group,"Max -> Alicia, Riad (group)",0.472,0.0,0.049,0.479
+108.4,01:48,109.0,01:49,0.6,Alicia,Max,single,Alicia -> Max,0.04,0.697,0.263,0.0
+108.95,01:49,110.67,01:51,1.72,Max,Alicia,single,Max -> Alicia,0.086,0.0,0.082,0.832
+109.14,01:49,110.46,01:50,1.32,Kush,Alicia,single,Kush -> Alicia,0.013,0.412,0.0,0.575
+109.24,01:49,110.16,01:50,0.92,Alicia,Max,single,Alicia -> Max,0.032,0.625,0.344,0.0
+109.64,01:50,110.96,01:51,1.32,Riad,Max,single,Riad -> Max,0.0,0.648,0.0,0.352
+111.1,01:51,114.0,01:54,2.9,Alicia,Max,single,Alicia -> Max,0.139,0.706,0.155,0.0
+111.63,01:52,111.89,01:52,0.26,Max,Alicia,single,Max -> Alicia,0.051,0.0,0.039,0.91
+111.66,01:52,112.85,01:53,1.19,Kush,Alicia,single,Kush -> Alicia,0.033,0.296,0.0,0.671
+112.13,01:52,112.38,01:52,0.25,Max,Kush,single,Max -> Kush,0.041,0.0,0.789,0.17
+112.21,01:52,113.05,01:53,0.84,Riad,Alicia,single,Riad -> Alicia,0.0,0.381,0.015,0.604
+112.59,01:53,113.11,01:53,0.52,Max,Alicia,single,Max -> Alicia,0.174,0.0,0.024,0.801
+113.28,01:53,113.6,01:54,0.32,Max,Riad,single,Max -> Riad,0.579,0.0,0.0,0.421
+113.76,01:54,114.1,01:54,0.34,Kush,Alicia,single,Kush -> Alicia,0.047,0.144,0.0,0.809
+114.22,01:54,114.6,01:55,0.38,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+114.71,01:55,116.1,01:56,1.39,Alicia,Max,single,Alicia -> Max,0.0,0.638,0.362,0.0
+115.05,01:55,115.75,01:56,0.7,Kush,Alicia,single,Kush -> Alicia,0.0,0.036,0.0,0.964
+115.53,01:56,116.28,01:56,0.75,Riad,Max,single,Riad -> Max,0.0,0.763,0.024,0.213
+115.74,01:56,116.01,01:56,0.27,Max,Riad,single,Max -> Riad,0.978,0.0,0.0,0.022
+116.26,01:56,116.92,01:57,0.66,Alicia,Kush,single,Alicia -> Kush,0.0,0.391,0.609,0.0
+116.34,01:56,117.0,01:57,0.66,Kush,Alicia,single,Kush -> Alicia,0.0,0.045,0.0,0.955
+116.83,01:57,117.54,01:58,0.71,Riad,Kush|Max,group,"Riad -> Kush, Max (group)",0.0,0.333,0.472,0.194
+117.28,01:57,117.92,01:58,0.64,Kush,Alicia,single,Kush -> Alicia,0.039,0.013,0.0,0.948
+117.57,01:58,117.9,01:58,0.33,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+117.73,01:58,118.51,01:59,0.78,Riad,Max,single,Riad -> Max,0.0,0.91,0.01,0.08
+118.01,01:58,118.31,01:58,0.3,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+118.53,01:59,119.61,02:00,1.08,Kush,Alicia,single,Kush -> Alicia,0.0,0.102,0.0,0.898
+118.56,01:59,119.37,01:59,0.81,Alicia,Kush,single,Alicia -> Kush,0.0,0.015,0.985,0.0
+119.01,01:59,122.04,02:02,3.03,Riad,Alicia,single,Riad -> Alicia,0.0,0.333,0.11,0.557
+119.09,01:59,119.95,02:00,0.86,Max,Riad,single,Max -> Riad,0.616,0.0,0.126,0.259
+119.95,02:00,120.38,02:00,0.43,Kush,Alicia,single,Kush -> Alicia,0.121,0.0,0.0,0.879
+120.36,02:00,121.05,02:01,0.69,Alicia,Kush,single,Alicia -> Kush,0.143,0.14,0.717,0.0
+120.55,02:01,121.52,02:02,0.97,Kush,Alicia,single,Kush -> Alicia,0.012,0.09,0.0,0.898
+121.35,02:01,121.64,02:02,0.29,Max,Alicia,single,Max -> Alicia,0.32,0.0,0.049,0.631
+121.42,02:01,122.46,02:02,1.04,Alicia,Max,single,Alicia -> Max,0.01,0.99,0.0,0.0
+121.83,02:02,122.43,02:02,0.6,Max,Alicia,single,Max -> Alicia,0.0,0.0,0.0,1.0
+122.58,02:03,123.38,02:03,0.8,Kush,Alicia,single,Kush -> Alicia,0.0,0.389,0.0,0.611
+122.97,02:03,123.89,02:04,0.92,Riad,Max,single,Riad -> Max,0.0,0.749,0.039,0.212
+123.66,02:04,124.58,02:05,0.92,Alicia,Kush,single,Alicia -> Kush,0.093,0.305,0.602,0.0
+123.71,02:04,124.22,02:04,0.51,Kush,Alicia,single,Kush -> Alicia,0.006,0.005,0.0,0.99
+124.13,02:04,125.21,02:05,1.08,Riad,Max,single,Riad -> Max,0.0,0.766,0.108,0.125
+124.64,02:05,125.06,02:05,0.42,Max,Riad,single,Max -> Riad,0.988,0.0,0.007,0.005
+125.46,02:05,125.76,02:06,0.3,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+125.7,02:06,125.91,02:06,0.21,Kush,Alicia,single,Kush -> Alicia,0.106,0.265,0.0,0.63
+126.01,02:06,126.26,02:06,0.25,Max,Kush,single,Max -> Kush,0.219,0.0,0.743,0.037
+126.15,02:06,126.81,02:07,0.66,Kush,Alicia,single,Kush -> Alicia,0.069,0.004,0.0,0.927
+126.21,02:06,126.64,02:07,0.43,Alicia,Kush,single,Alicia -> Kush,0.11,0.0,0.89,0.0
+126.71,02:07,127.17,02:07,0.46,Max,Riad,single,Max -> Riad,0.915,0.0,0.038,0.047
+127.07,02:07,127.3,02:07,0.23,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+127.1,02:07,127.86,02:08,0.76,Alicia,Max|Riad,group,"Alicia -> Max, Riad (group)",0.451,0.549,0.0,0.0
+127.82,02:08,128.36,02:08,0.54,Max,Kush,single,Max -> Kush,0.187,0.0,0.561,0.252
+127.96,02:08,130.25,02:10,2.29,Kush,Alicia,single,Kush -> Alicia,0.068,0.241,0.0,0.691
+128.23,02:08,129.22,02:09,0.99,Alicia,Kush,single,Alicia -> Kush,0.184,0.104,0.712,0.0
+128.85,02:09,132.97,02:13,4.12,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.448,0.191,0.361
+128.91,02:09,129.63,02:10,0.72,Max,Alicia|Riad,group,"Max -> Alicia, Riad (group)",0.407,0.0,0.044,0.549
+129.52,02:10,129.75,02:10,0.23,Alicia,Kush,single,Alicia -> Kush,0.03,0.409,0.561,0.0
+130.05,02:10,131.32,02:11,1.27,Alicia,Kush,single,Alicia -> Kush,0.188,0.108,0.705,0.0
+130.82,02:11,131.05,02:11,0.23,Kush,Alicia,single,Kush -> Alicia,0.005,0.009,0.0,0.986
+130.96,02:11,131.49,02:11,0.53,Max,Kush|Riad,group,"Max -> Kush, Riad (group)",0.393,0.0,0.533,0.074
+131.21,02:11,131.5,02:12,0.29,Kush,Alicia|Max|Riad,all,"Kush -> Alicia, Max, Riad (ALL)",0.292,0.345,0.0,0.364
+131.67,02:12,132.26,02:12,0.59,Kush,Alicia,single,Kush -> Alicia,0.281,0.0,0.0,0.719
+131.72,02:12,132.48,02:12,0.76,Alicia,Kush,single,Alicia -> Kush,0.188,0.016,0.797,0.0
+132.65,02:13,133.04,02:13,0.39,Kush,Alicia,single,Kush -> Alicia,0.013,0.021,0.0,0.966
+132.68,02:13,134.32,02:14,1.64,Alicia,Kush|Max|Riad,all,"Alicia -> Kush, Max, Riad (ALL)",0.244,0.356,0.4,0.0
+133.13,02:13,134.25,02:14,1.12,Riad,Alicia,single,Riad -> Alicia,0.0,0.374,0.073,0.553
+133.2,02:13,133.73,02:14,0.53,Kush,Alicia,single,Kush -> Alicia,0.025,0.088,0.0,0.887
+133.36,02:13,134.83,02:15,1.47,Max,Alicia,single,Max -> Alicia,0.107,0.0,0.217,0.676
+134.37,02:14,135.2,02:15,0.83,Kush,Alicia,single,Kush -> Alicia,0.005,0.146,0.0,0.849
+134.63,02:15,135.43,02:15,0.8,Alicia,Kush,single,Alicia -> Kush,0.013,0.119,0.868,0.0
+134.86,02:15,135.77,02:16,0.91,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.523,0.086,0.391
+135.24,02:15,135.94,02:16,0.7,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.432,0.0,0.331,0.238
+135.41,02:15,136.9,02:17,1.49,Kush,Alicia,single,Kush -> Alicia,0.109,0.235,0.0,0.656
+135.72,02:16,136.12,02:16,0.4,Alicia,Riad|Kush|Max,all,"Alicia -> Riad, Kush, Max (ALL)",0.407,0.265,0.328,0.0
+136.17,02:16,137.41,02:17,1.24,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.491,0.036,0.473
+136.95,02:17,137.2,02:17,0.25,Alicia,Max,single,Alicia -> Max,0.408,0.588,0.004,0.0
+136.99,02:17,137.71,02:18,0.72,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+137.92,02:18,138.34,02:18,0.42,Kush,Alicia,single,Kush -> Alicia,0.02,0.0,0.0,0.98
+138.13,02:18,138.33,02:18,0.2,Alicia,Kush,single,Alicia -> Kush,0.002,0.0,0.997,0.0
+138.41,02:18,138.84,02:19,0.43,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.457,0.113,0.43
+138.45,02:18,138.99,02:19,0.54,Max,Riad,single,Max -> Riad,0.623,0.0,0.23,0.148
+138.71,02:19,139.6,02:20,0.89,Kush,Alicia,single,Kush -> Alicia,0.182,0.174,0.0,0.644
+138.88,02:19,139.69,02:20,0.81,Alicia,Kush,single,Alicia -> Kush,0.067,0.046,0.887,0.0
+139.22,02:19,140.24,02:20,1.02,Max,Riad,single,Max -> Riad,0.812,0.0,0.05,0.138
+139.42,02:19,140.17,02:20,0.75,Riad,Max,single,Riad -> Max,0.0,0.998,0.0,0.001
+140.44,02:20,140.75,02:21,0.31,Max,Riad,single,Max -> Riad,0.884,0.0,0.0,0.116
+140.8,02:21,141.02,02:21,0.22,Riad,Kush,single,Riad -> Kush,0.0,0.0,1.0,0.0
+142.54,02:23,142.92,02:23,0.38,Alicia,Kush,single,Alicia -> Kush,0.0,0.019,0.981,0.0
+142.55,02:23,143.39,02:23,0.84,Kush,Alicia,single,Kush -> Alicia,0.014,0.026,0.0,0.96
+143.14,02:23,143.36,02:23,0.22,Alicia,Riad|Kush,group,"Alicia -> Riad, Kush (group)",0.493,0.18,0.327,0.0
+143.17,02:23,143.44,02:23,0.27,Riad,Max,single,Riad -> Max,0.0,0.971,0.01,0.019
+143.17,02:23,143.44,02:23,0.27,Max,Riad,single,Max -> Riad,0.987,0.0,0.007,0.006
+143.65,02:24,143.86,02:24,0.21,Riad,Max,single,Riad -> Max,0.0,0.965,0.035,0.0
+143.66,02:24,144.28,02:24,0.62,Max,Kush|Riad,group,"Max -> Kush, Riad (group)",0.363,0.0,0.486,0.151
+143.98,02:24,144.45,02:24,0.47,Kush,Max|Alicia,group,"Kush -> Max, Alicia (group)",0.0,0.503,0.0,0.497
+144.56,02:25,144.97,02:25,0.41,Max,Riad,single,Max -> Riad,0.821,0.0,0.176,0.004
+145.05,02:25,146.99,02:27,1.94,Kush,Alicia,single,Kush -> Alicia,0.12,0.19,0.0,0.69
+145.07,02:25,145.51,02:26,0.44,Alicia,Kush,single,Alicia -> Kush,0.0,0.002,0.998,0.0
+145.6,02:26,146.01,02:26,0.41,Max,Riad,single,Max -> Riad,0.794,0.0,0.141,0.065
+146.24,02:26,147.01,02:27,0.77,Riad,Max,single,Riad -> Max,0.0,0.881,0.05,0.07
+146.24,02:26,147.03,02:27,0.79,Max,Riad,single,Max -> Riad,0.87,0.0,0.041,0.089
+146.48,02:26,147.16,02:27,0.68,Alicia,Max,single,Alicia -> Max,0.181,0.633,0.186,0.0
+147.2,02:27,149.25,02:29,2.05,Max,Alicia|Kush,group,"Max -> Alicia, Kush (group)",0.192,0.0,0.281,0.527
+147.21,02:27,147.62,02:28,0.41,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+147.66,02:28,148.06,02:28,0.4,Kush,Alicia,single,Kush -> Alicia,0.0,0.025,0.0,0.975
+147.66,02:28,148.06,02:28,0.4,Alicia,Kush,single,Alicia -> Kush,0.0,0.042,0.958,0.0
+148.08,02:28,149.38,02:29,1.3,Riad,Alicia|Max|Kush,all,"Riad -> Alicia, Max, Kush (ALL)",0.0,0.345,0.284,0.371
+148.52,02:29,149.66,02:30,1.14,Kush,Alicia,single,Kush -> Alicia,0.13,0.086,0.0,0.783
+148.52,02:29,149.63,02:30,1.11,Alicia,Kush,single,Alicia -> Kush,0.17,0.262,0.568,0.0
+149.6,02:30,150.22,02:30,0.62,Max,Alicia,single,Max -> Alicia,0.287,0.0,0.097,0.616
+149.72,02:30,150.75,02:31,1.03,Riad,Max,single,Riad -> Max,0.0,0.906,0.028,0.066
+150.46,02:30,150.75,02:31,0.29,Max,Riad|Kush,group,"Max -> Riad, Kush (group)",0.527,0.0,0.326,0.147
+150.69,02:31,152.66,02:33,1.97,Kush,Alicia,single,Kush -> Alicia,0.306,0.136,0.0,0.559
+150.72,02:31,152.64,02:33,1.92,Alicia,Kush,single,Alicia -> Kush,0.151,0.03,0.819,0.0
+150.93,02:31,151.8,02:32,0.87,Riad,Kush,single,Riad -> Kush,0.0,0.336,0.577,0.086
+150.93,02:31,151.78,02:32,0.85,Max,Riad,single,Max -> Riad,0.82,0.0,0.164,0.016
+152.33,02:32,154.94,02:35,2.61,Riad,Max,single,Riad -> Max,0.0,0.805,0.098,0.096
+152.81,02:33,153.75,02:34,0.94,Max,Kush|Riad|Alicia,all,"Max -> Kush, Riad, Alicia (ALL)",0.288,0.0,0.442,0.27
+153.49,02:33,154.48,02:34,0.99,Kush,Riad,single,Kush -> Riad,0.818,0.07,0.0,0.111
+153.5,02:34,154.47,02:34,0.97,Alicia,Riad,single,Alicia -> Riad,0.814,0.045,0.141,0.0
+154.36,02:34,154.94,02:35,0.58,Max,Riad,single,Max -> Riad,0.991,0.0,0.005,0.004
+154.91,02:35,155.4,02:35,0.49,Kush,Alicia,single,Kush -> Alicia,0.336,0.09,0.0,0.574
+155.04,02:35,155.67,02:36,0.63,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.428,0.079,0.493,0.0
+155.1,02:35,158.66,02:39,3.56,Riad,Max,single,Riad -> Max,0.0,0.637,0.143,0.22
+155.51,02:36,156.07,02:36,0.56,Max,Riad,single,Max -> Riad,0.998,0.0,0.001,0.001
+156.39,02:36,156.8,02:37,0.41,Max,Riad,single,Max -> Riad,0.752,0.0,0.046,0.202
+156.8,02:37,157.12,02:37,0.32,Alicia,Kush,single,Alicia -> Kush,0.001,0.359,0.64,0.0
+156.97,02:37,157.34,02:37,0.37,Max,Riad,single,Max -> Riad,0.974,0.0,0.008,0.017
+157.32,02:37,160.21,02:40,2.89,Kush,Alicia,single,Kush -> Alicia,0.136,0.256,0.0,0.608
+157.32,02:37,158.93,02:39,1.61,Alicia,Kush,single,Alicia -> Kush,0.091,0.166,0.743,0.0
+157.62,02:38,158.07,02:38,0.45,Max,Alicia|Kush|Riad,all,"Max -> Alicia, Kush, Riad (ALL)",0.243,0.0,0.327,0.43
+158.32,02:38,158.68,02:39,0.36,Max,Riad,single,Max -> Riad,0.986,0.0,0.014,0.0
+159.12,02:39,159.72,02:40,0.6,Alicia,Kush,single,Alicia -> Kush,0.081,0.1,0.819,0.0
+159.78,02:40,160.65,02:41,0.87,Riad,Max,single,Riad -> Max,0.0,0.789,0.019,0.192
+159.78,02:40,160.11,02:40,0.33,Max,Riad,single,Max -> Riad,0.859,0.0,0.031,0.111
+159.89,02:40,160.14,02:40,0.25,Alicia,Kush,single,Alicia -> Kush,0.012,0.009,0.979,0.0
+160.9,02:41,161.98,02:42,1.08,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+160.94,02:41,161.5,02:42,0.56,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+161.54,02:42,163.22,02:43,1.68,Riad,Max,single,Riad -> Max,0.0,0.746,0.084,0.171
+161.54,02:42,163.13,02:43,1.59,Max,Riad,single,Max -> Riad,0.815,0.0,0.058,0.127
+161.77,02:42,161.98,02:42,0.21,Alicia,Kush,single,Alicia -> Kush,0.098,0.232,0.67,0.0
+162.19,02:42,162.54,02:43,0.35,Kush,Alicia,single,Kush -> Alicia,0.108,0.096,0.0,0.796
+162.31,02:42,162.53,02:43,0.22,Alicia,Kush,single,Alicia -> Kush,0.003,0.003,0.994,0.0
+163.19,02:43,163.44,02:43,0.25,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+163.22,02:43,164.08,02:44,0.86,Kush,Alicia,single,Kush -> Alicia,0.0,0.104,0.0,0.896
+163.5,02:44,164.79,02:45,1.29,Riad,Max,single,Riad -> Max,0.0,0.703,0.185,0.113
+163.64,02:44,164.07,02:44,0.43,Max,Riad,single,Max -> Riad,0.985,0.0,0.005,0.011
+163.81,02:44,164.04,02:44,0.23,Alicia,Riad,single,Alicia -> Riad,0.755,0.088,0.157,0.0
+164.28,02:44,164.67,02:45,0.39,Max,Riad,single,Max -> Riad,0.991,0.0,0.004,0.005
+164.37,02:44,165.39,02:45,1.02,Kush,Alicia,single,Kush -> Alicia,0.14,0.235,0.0,0.625
+164.38,02:44,165.37,02:45,0.99,Alicia,Kush,single,Alicia -> Kush,0.094,0.093,0.813,0.0
+164.95,02:45,165.47,02:45,0.52,Max,Riad,single,Max -> Riad,0.673,0.0,0.08,0.247
+164.96,02:45,167.27,02:47,2.31,Riad,Max,single,Riad -> Max,0.0,0.753,0.132,0.114
+165.91,02:46,167.22,02:47,1.31,Max,Riad,single,Max -> Riad,0.621,0.0,0.252,0.127
+166.95,02:47,168.48,02:48,1.53,Kush,Alicia,single,Kush -> Alicia,0.046,0.115,0.0,0.839
+166.95,02:47,168.18,02:48,1.23,Alicia,Kush,single,Alicia -> Kush,0.106,0.262,0.633,0.0
+168.14,02:48,168.89,02:49,0.75,Max,Riad,single,Max -> Riad,0.652,0.0,0.063,0.285
+168.15,02:48,168.88,02:49,0.73,Riad,Max,single,Riad -> Max,0.0,0.677,0.153,0.171
+168.69,02:49,168.96,02:49,0.27,Kush,Alicia,single,Kush -> Alicia,0.005,0.003,0.0,0.992
+168.69,02:49,168.97,02:49,0.28,Alicia,Kush,single,Alicia -> Kush,0.061,0.204,0.736,0.0
+169.61,02:50,169.88,02:50,0.27,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+169.63,02:50,169.86,02:50,0.23,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+169.94,02:50,171.68,02:52,1.74,Alicia,Kush,single,Alicia -> Kush,0.07,0.184,0.746,0.0
+170.23,02:50,171.54,02:52,1.31,Kush,Alicia,single,Kush -> Alicia,0.053,0.14,0.0,0.807
+170.68,02:51,171.46,02:51,0.78,Riad,Max,single,Riad -> Max,0.0,0.65,0.225,0.125
+170.78,02:51,171.43,02:51,0.65,Max,Riad,single,Max -> Riad,0.991,0.0,0.004,0.005
+171.78,02:52,171.99,02:52,0.21,Max,Riad,single,Max -> Riad,0.918,0.0,0.003,0.079
+171.93,02:52,172.6,02:53,0.67,Alicia,Kush,single,Alicia -> Kush,0.0,0.013,0.987,0.0
+172.14,02:52,172.6,02:53,0.46,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+172.56,02:53,173.75,02:54,1.19,Riad,Max,single,Riad -> Max,0.0,0.765,0.113,0.122
+172.63,02:53,173.67,02:54,1.04,Max,Riad,single,Max -> Riad,0.994,0.0,0.003,0.003
+173.4,02:53,174.96,02:55,1.56,Kush,Alicia|Max|Riad,all,"Kush -> Alicia, Max, Riad (ALL)",0.221,0.312,0.0,0.468
+173.63,02:54,174.94,02:55,1.31,Alicia,Riad|Max|Kush,all,"Alicia -> Riad, Max, Kush (ALL)",0.499,0.261,0.239,0.0
+174.02,02:54,174.76,02:55,0.74,Riad,Max,single,Riad -> Max,0.0,0.829,0.068,0.103
+174.02,02:54,175.7,02:56,1.68,Max,Riad,single,Max -> Riad,0.864,0.0,0.064,0.072
+175.12,02:55,175.66,02:56,0.54,Riad,Max,single,Riad -> Max,0.0,0.967,0.026,0.008
+175.27,02:55,176.08,02:56,0.81,Kush,Alicia|Riad,group,"Kush -> Alicia, Riad (group)",0.361,0.134,0.0,0.505
+175.34,02:55,176.08,02:56,0.74,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.154,0.359,0.487,0.0
+175.91,02:56,176.44,02:56,0.53,Max,Riad,single,Max -> Riad,0.787,0.0,0.062,0.151
+175.92,02:56,176.44,02:56,0.52,Riad,Max,single,Riad -> Max,0.0,0.743,0.131,0.126
+176.64,02:57,177.03,02:57,0.39,Riad,Max,single,Riad -> Max,0.0,0.995,0.002,0.003
+176.64,02:57,177.03,02:57,0.39,Max,Riad,single,Max -> Riad,0.933,0.0,0.011,0.055
+176.78,02:57,179.04,02:59,2.26,Alicia,Kush,single,Alicia -> Kush,0.155,0.236,0.609,0.0
+176.92,02:57,179.33,02:59,2.41,Kush,Riad|Alicia|Max,all,"Kush -> Riad, Alicia, Max (ALL)",0.395,0.256,0.0,0.349
+177.7,02:58,178.12,02:58,0.42,Riad,Max,single,Riad -> Max,0.0,0.99,0.006,0.004
+177.7,02:58,178.15,02:58,0.45,Max,Riad,single,Max -> Riad,0.991,0.0,0.003,0.006
+178.4,02:58,178.86,02:59,0.46,Riad,Max,single,Riad -> Max,0.0,0.847,0.132,0.02
+178.4,02:58,178.88,02:59,0.48,Max,Riad,single,Max -> Riad,0.646,0.0,0.255,0.099
+179.21,02:59,179.63,03:00,0.42,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+179.8,03:00,180.46,03:00,0.66,Riad,Max,single,Riad -> Max,0.0,0.719,0.088,0.193
+179.8,03:00,180.49,03:00,0.69,Max,Riad,single,Max -> Riad,0.728,0.0,0.077,0.195
+180.14,03:00,180.43,03:00,0.29,Alicia,Kush,single,Alicia -> Kush,0.026,0.0,0.974,0.0
+181.23,03:01,182.23,03:02,1.0,Alicia,Kush,single,Alicia -> Kush,0.172,0.057,0.772,0.0
+181.68,03:02,182.2,03:02,0.52,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.161,0.32,0.0,0.519
+181.72,03:02,182.22,03:02,0.5,Max,Riad,single,Max -> Riad,0.76,0.0,0.183,0.057
+181.81,03:02,182.14,03:02,0.33,Riad,Alicia,single,Riad -> Alicia,0.0,0.0,0.417,0.583
+182.86,03:03,183.09,03:03,0.23,Max,Riad,single,Max -> Riad,0.776,0.0,0.156,0.068
+183.63,03:04,183.91,03:04,0.28,Kush,Alicia,single,Kush -> Alicia,0.129,0.277,0.0,0.594
+183.72,03:04,184.29,03:04,0.57,Max,Riad,single,Max -> Riad,0.722,0.0,0.257,0.021
+183.74,03:04,184.05,03:04,0.31,Riad,Max,single,Riad -> Max,0.0,0.964,0.033,0.003
+184.2,03:04,184.73,03:05,0.53,Kush,Alicia,single,Kush -> Alicia,0.022,0.016,0.0,0.962
+184.24,03:04,184.68,03:05,0.44,Alicia,Kush,single,Alicia -> Kush,0.016,0.004,0.98,0.0
+184.64,03:05,187.44,03:07,2.8,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.54,0.224,0.236
+184.7,03:05,185.21,03:05,0.51,Max,Kush|Alicia|Riad,all,"Max -> Kush, Alicia, Riad (ALL)",0.278,0.0,0.407,0.315
+185.37,03:05,185.81,03:06,0.44,Max,Riad,single,Max -> Riad,0.995,0.0,0.005,0.0
+186.28,03:06,186.92,03:07,0.64,Kush,Alicia,single,Kush -> Alicia,0.2,0.064,0.0,0.735
+186.3,03:06,186.83,03:07,0.53,Alicia,Riad|Kush,group,"Alicia -> Riad, Kush (group)",0.458,0.155,0.387,0.0
+186.92,03:07,187.41,03:07,0.49,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+187.71,03:08,190.44,03:10,2.73,Kush,Alicia,single,Kush -> Alicia,0.043,0.162,0.0,0.795
+187.95,03:08,189.78,03:10,1.83,Alicia,Kush,single,Alicia -> Kush,0.078,0.104,0.817,0.0
+188.5,03:08,188.7,03:09,0.2,Riad,Alicia|Max,group,"Riad -> Alicia, Max (group)",0.0,0.429,0.134,0.436
+188.93,03:09,189.3,03:09,0.37,Max,Riad,single,Max -> Riad,0.884,0.0,0.047,0.068
+189.46,03:09,191.58,03:12,2.12,Riad,Max,single,Riad -> Max,0.0,0.632,0.154,0.214
+189.61,03:10,190.48,03:10,0.87,Max,Alicia|Kush|Riad,all,"Max -> Alicia, Kush, Riad (ALL)",0.294,0.0,0.333,0.372
+190.66,03:11,191.3,03:11,0.64,Max,Riad|Kush|Alicia,all,"Max -> Riad, Kush, Alicia (ALL)",0.476,0.0,0.323,0.201
+190.94,03:11,191.57,03:12,0.63,Kush,Alicia,single,Kush -> Alicia,0.056,0.095,0.0,0.85
+190.94,03:11,191.33,03:11,0.39,Alicia,Kush,single,Alicia -> Kush,0.061,0.064,0.875,0.0
+191.93,03:12,193.13,03:13,1.2,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.321,0.293,0.385,0.0
+191.99,03:12,192.58,03:13,0.59,Kush,Alicia,single,Kush -> Alicia,0.066,0.0,0.0,0.934
+192.21,03:12,193.48,03:13,1.27,Max,Riad,single,Max -> Riad,0.658,0.0,0.149,0.193
+192.8,03:13,193.24,03:13,0.44,Kush,Alicia|Riad|Max,all,"Kush -> Alicia, Riad, Max (ALL)",0.315,0.236,0.0,0.449
+192.85,03:13,193.12,03:13,0.27,Riad,Max,single,Riad -> Max,0.0,0.921,0.02,0.058
+193.66,03:14,197.43,03:17,3.77,Kush,Alicia,single,Kush -> Alicia,0.128,0.062,0.0,0.81
+193.67,03:14,195.2,03:15,1.53,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+194.51,03:15,195.26,03:15,0.75,Max,Riad,single,Max -> Riad,0.678,0.0,0.113,0.209
+194.52,03:15,195.24,03:15,0.72,Riad,Max,single,Riad -> Max,0.0,0.98,0.006,0.015
+195.43,03:15,197.05,03:17,1.62,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.386,0.168,0.446,0.0
+195.7,03:16,195.98,03:16,0.28,Riad,Max,single,Riad -> Max,0.0,0.993,0.001,0.006
+195.7,03:16,195.98,03:16,0.28,Max,Riad,single,Max -> Riad,0.994,0.0,0.002,0.004
+196.27,03:16,196.48,03:16,0.21,Riad,Max,single,Riad -> Max,0.0,0.913,0.033,0.055
+196.27,03:16,197.81,03:18,1.54,Max,Riad,single,Max -> Riad,0.881,0.0,0.026,0.092
+197.95,03:18,198.61,03:19,0.66,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+198.3,03:18,198.57,03:19,0.27,Alicia,Kush,single,Alicia -> Kush,0.0,0.002,0.998,0.0
+198.68,03:19,200.24,03:20,1.56,Riad,Max,single,Riad -> Max,0.0,0.63,0.21,0.16
+198.72,03:19,199.04,03:19,0.32,Max,Riad,single,Max -> Riad,0.994,0.0,0.004,0.002
+198.99,03:19,200.65,03:21,1.66,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.149,0.348,0.0,0.504
+199.01,03:19,199.76,03:20,0.75,Alicia,Kush,single,Alicia -> Kush,0.087,0.14,0.773,0.0
+199.39,03:19,199.63,03:20,0.24,Max,Riad,single,Max -> Riad,0.927,0.0,0.042,0.031
+199.79,03:20,200.14,03:20,0.35,Max,Riad,single,Max -> Riad,0.982,0.0,0.007,0.012
+199.99,03:20,200.58,03:21,0.59,Alicia,Kush,single,Alicia -> Kush,0.05,0.146,0.804,0.0
+200.67,03:21,200.89,03:21,0.22,Max,Riad,single,Max -> Riad,0.916,0.0,0.084,0.0
+200.73,03:21,200.94,03:21,0.21,Riad,Max,single,Riad -> Max,0.0,0.791,0.201,0.008
+201.15,03:21,202.25,03:22,1.1,Kush,Alicia,single,Kush -> Alicia,0.217,0.202,0.0,0.58
+201.15,03:21,201.98,03:22,0.83,Alicia,Kush|Riad|Max,all,"Alicia -> Kush, Riad, Max (ALL)",0.32,0.257,0.423,0.0
+201.64,03:22,202.22,03:22,0.58,Riad,Max,single,Riad -> Max,0.0,0.936,0.013,0.051
+201.64,03:22,202.4,03:22,0.76,Max,Riad,single,Max -> Riad,0.797,0.0,0.052,0.151
+202.7,03:23,203.27,03:23,0.57,Max,Riad,single,Max -> Riad,0.88,0.0,0.054,0.066
+202.71,03:23,203.08,03:23,0.37,Riad,Max,single,Riad -> Max,0.0,0.95,0.04,0.01
+202.98,03:23,203.74,03:24,0.76,Alicia,Riad|Kush,group,"Alicia -> Riad, Kush (group)",0.526,0.033,0.44,0.0
+203.45,03:23,203.71,03:24,0.26,Riad,Max|Alicia|Kush,all,"Riad -> Max, Alicia, Kush (ALL)",0.0,0.391,0.269,0.339
+203.52,03:24,204.08,03:24,0.56,Kush,Alicia,single,Kush -> Alicia,0.185,0.042,0.0,0.773
+204.04,03:24,204.49,03:24,0.45,Riad,Max,single,Riad -> Max,0.0,0.754,0.223,0.022
+204.06,03:24,204.62,03:25,0.56,Max,Riad,single,Max -> Riad,0.937,0.0,0.041,0.022
+204.97,03:25,205.53,03:26,0.56,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+205.96,03:26,206.25,03:26,0.29,Alicia,Max,single,Alicia -> Max,0.0,0.613,0.387,0.0
+206.31,03:26,206.78,03:27,0.47,Max,Riad,single,Max -> Riad,0.985,0.0,0.015,0.0
+206.66,03:27,206.87,03:27,0.21,Alicia,Kush,single,Alicia -> Kush,0.123,0.257,0.621,0.0
+207.21,03:27,207.82,03:28,0.61,Kush,Alicia,single,Kush -> Alicia,0.017,0.15,0.0,0.833
+207.55,03:28,209.11,03:29,1.56,Max,Riad,single,Max -> Riad,0.665,0.0,0.091,0.244
+207.76,03:28,208.31,03:28,0.55,Riad,Max,single,Riad -> Max,0.0,0.905,0.056,0.039
+208.03,03:28,208.58,03:29,0.55,Kush,Alicia,single,Kush -> Alicia,0.005,0.178,0.0,0.817
+208.04,03:28,208.39,03:28,0.35,Alicia,Kush,single,Alicia -> Kush,0.035,0.16,0.804,0.0
+208.53,03:29,209.11,03:29,0.58,Riad,Max,single,Riad -> Max,0.0,0.786,0.019,0.196
+209.29,03:29,210.12,03:30,0.83,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.39,0.132,0.478,0.0
+209.38,03:29,211.26,03:31,1.88,Kush,Alicia|Max|Riad,all,"Kush -> Alicia, Max, Riad (ALL)",0.212,0.272,0.0,0.516
+209.43,03:29,209.66,03:30,0.23,Max,Alicia|Kush|Riad,all,"Max -> Alicia, Kush, Riad (ALL)",0.234,0.0,0.256,0.51
+209.9,03:30,212.84,03:33,2.94,Riad,Max,single,Riad -> Max,0.0,0.677,0.111,0.213
+209.91,03:30,210.65,03:31,0.74,Max,Riad,single,Max -> Riad,0.794,0.0,0.054,0.152
+211.35,03:31,211.61,03:32,0.26,Alicia,Riad,single,Alicia -> Riad,0.939,0.012,0.049,0.0
+211.48,03:31,212.34,03:32,0.86,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.185,0.32,0.0,0.495
+211.89,03:32,212.3,03:32,0.41,Max,Riad,single,Max -> Riad,0.696,0.0,0.169,0.135
+212.59,03:33,212.9,03:33,0.31,Alicia,Max,single,Alicia -> Max,0.075,0.905,0.02,0.0
+212.64,03:33,212.89,03:33,0.25,Max,Alicia,single,Max -> Alicia,0.083,0.0,0.005,0.912
+212.86,03:33,214.15,03:34,1.29,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.053,0.472,0.0,0.475
+213.08,03:33,214.08,03:34,1.0,Max,Alicia|Riad|Kush,all,"Max -> Alicia, Riad, Kush (ALL)",0.281,0.0,0.24,0.479
+213.16,03:33,213.46,03:33,0.3,Alicia,Max,single,Alicia -> Max,0.039,0.83,0.131,0.0
+213.4,03:33,214.49,03:34,1.09,Riad,Max,single,Riad -> Max,0.0,0.62,0.09,0.29
+214.1,03:34,214.83,03:35,0.73,Alicia,Riad|Kush,group,"Alicia -> Riad, Kush (group)",0.525,0.142,0.334,0.0
+214.64,03:35,217.58,03:38,2.94,Kush,Alicia|Max|Riad,all,"Kush -> Alicia, Max, Riad (ALL)",0.244,0.312,0.0,0.444
+215.0,03:35,218.08,03:38,3.08,Riad,Max|Kush,group,"Riad -> Max, Kush (group)",0.0,0.473,0.417,0.11
+215.08,03:35,215.41,03:35,0.33,Max,Riad,single,Max -> Riad,0.647,0.0,0.186,0.167
+216.12,03:36,216.94,03:37,0.82,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.193,0.343,0.465,0.0
+216.74,03:37,217.45,03:37,0.71,Max,Riad,single,Max -> Riad,0.554,0.0,0.036,0.411
+217.14,03:37,217.87,03:38,0.73,Alicia,Max,single,Alicia -> Max,0.096,0.834,0.07,0.0
+217.66,03:38,217.86,03:38,0.2,Max,Alicia,single,Max -> Alicia,0.327,0.0,0.0,0.673
+217.85,03:38,218.3,03:38,0.45,Kush,Alicia,single,Kush -> Alicia,0.099,0.164,0.0,0.737
+219.05,03:39,220.02,03:40,0.97,Kush,Alicia,single,Kush -> Alicia,0.0,0.29,0.0,0.71
+219.56,03:40,220.53,03:41,0.97,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+220.48,03:40,221.42,03:41,0.94,Kush,Alicia,single,Kush -> Alicia,0.229,0.0,0.0,0.771
+221.0,03:41,221.37,03:41,0.37,Riad,Kush,single,Riad -> Kush,0.0,0.0,0.6,0.4
+221.41,03:41,221.68,03:42,0.27,Max,Riad,single,Max -> Riad,0.569,0.0,0.128,0.303
+221.54,03:42,221.92,03:42,0.38,Riad,Max,single,Riad -> Max,0.0,0.64,0.197,0.163
+221.58,03:42,222.88,03:43,1.3,Kush,Riad,single,Kush -> Riad,0.627,0.125,0.0,0.249
+222.0,03:42,222.3,03:42,0.3,Alicia,Kush,single,Alicia -> Kush,0.0,0.055,0.945,0.0
+222.09,03:42,223.04,03:43,0.95,Riad,Max,single,Riad -> Max,0.0,0.774,0.092,0.134
+222.25,03:42,222.86,03:43,0.61,Max,Riad,single,Max -> Riad,0.916,0.0,0.066,0.018
+223.04,03:43,224.25,03:44,1.21,Kush,Riad,single,Kush -> Riad,1.0,0.0,0.0,0.0
+223.2,03:43,225.97,03:46,2.77,Riad,Alicia|Kush,group,"Riad -> Alicia, Kush (group)",0.0,0.0,0.484,0.516
+224.49,03:44,225.46,03:45,0.97,Kush,Alicia,single,Kush -> Alicia,0.228,0.0,0.0,0.772
+224.63,03:45,225.04,03:45,0.41,Alicia,Riad,single,Alicia -> Riad,1.0,0.0,0.0,0.0
+226.4,03:46,227.23,03:47,0.83,Alicia,Max,single,Alicia -> Max,0.0,1.0,0.0,0.0
+226.92,03:47,227.6,03:48,0.68,Max,Alicia,single,Max -> Alicia,0.0,0.0,0.053,0.947
+227.3,03:47,228.06,03:48,0.76,Kush,Alicia,single,Kush -> Alicia,0.0,0.246,0.0,0.754
+227.87,03:48,229.0,03:49,1.13,Alicia,Kush|Riad,group,"Alicia -> Kush, Riad (group)",0.299,0.2,0.501,0.0
+228.07,03:48,228.57,03:49,0.5,Riad,Alicia|Max,group,"Riad -> Alicia, Max (group)",0.0,0.398,0.114,0.488
+228.39,03:48,228.94,03:49,0.55,Max,Riad,single,Max -> Riad,0.738,0.0,0.127,0.135
+228.47,03:48,229.02,03:49,0.55,Kush,Alicia,single,Kush -> Alicia,0.106,0.302,0.0,0.591
+229.55,03:50,229.87,03:50,0.32,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+229.87,03:50,230.12,03:50,0.25,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+230.03,03:50,230.67,03:51,0.64,Riad,Max,single,Riad -> Max,0.0,0.713,0.037,0.251
+230.35,03:50,230.57,03:51,0.22,Max,Riad,single,Max -> Riad,0.88,0.0,0.077,0.043
+230.68,03:51,231.29,03:51,0.61,Kush,Alicia,single,Kush -> Alicia,0.059,0.102,0.0,0.839
+230.68,03:51,231.65,03:52,0.97,Alicia,Kush|Max|Riad,all,"Alicia -> Kush, Max, Riad (ALL)",0.208,0.288,0.504,0.0
+230.96,03:51,232.16,03:52,1.2,Max,Riad,single,Max -> Riad,0.658,0.0,0.0,0.342
+231.19,03:51,231.78,03:52,0.59,Riad,Max,single,Riad -> Max,0.0,0.843,0.012,0.145
+232.12,03:52,232.45,03:52,0.33,Alicia,Kush,single,Alicia -> Kush,0.0,0.148,0.852,0.0
+232.59,03:53,232.96,03:53,0.37,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.465,0.0,0.194,0.341
+232.68,03:53,233.6,03:54,0.92,Kush,Alicia,single,Kush -> Alicia,0.055,0.3,0.0,0.646
+232.73,03:53,233.21,03:53,0.48,Alicia,Kush,single,Alicia -> Kush,0.244,0.081,0.675,0.0
+233.18,03:53,234.23,03:54,1.05,Riad,Max,single,Riad -> Max,0.0,0.736,0.041,0.223
+233.19,03:53,233.46,03:53,0.27,Max,Riad,single,Max -> Riad,0.992,0.0,0.001,0.008
+234.0,03:54,234.33,03:54,0.33,Alicia,Riad,single,Alicia -> Riad,0.582,0.0,0.418,0.0
+234.56,03:55,234.97,03:55,0.41,Alicia,Kush,single,Alicia -> Kush,0.047,0.378,0.575,0.0
+235.05,03:55,235.8,03:56,0.75,Max,Alicia|Riad|Kush,all,"Max -> Alicia, Riad, Kush (ALL)",0.352,0.0,0.293,0.355
+235.07,03:55,239.92,04:00,4.85,Kush,Alicia,single,Kush -> Alicia,0.152,0.248,0.0,0.599
+235.57,03:56,235.92,03:56,0.35,Riad,Max,single,Riad -> Max,0.0,0.85,0.018,0.132
+236.08,03:56,240.41,04:00,4.33,Riad,Alicia|Max|Kush,all,"Riad -> Alicia, Max, Kush (ALL)",0.0,0.312,0.298,0.389
+236.28,03:56,236.52,03:57,0.24,Alicia,Riad,single,Alicia -> Riad,0.575,0.002,0.423,0.0
+236.78,03:57,237.09,03:57,0.31,Max,Riad,single,Max -> Riad,0.971,0.0,0.008,0.021
+237.12,03:57,237.41,03:57,0.29,Alicia,Kush,single,Alicia -> Kush,0.153,0.237,0.61,0.0
+237.27,03:57,238.25,03:58,0.98,Max,Riad,single,Max -> Riad,0.603,0.0,0.059,0.338
+237.57,03:58,237.8,03:58,0.23,Alicia,Kush,single,Alicia -> Kush,0.017,0.032,0.951,0.0
+238.57,03:59,238.83,03:59,0.26,Alicia,Riad,single,Alicia -> Riad,0.85,0.001,0.148,0.0
+240.83,04:01,242.26,04:02,1.43,Kush,Alicia,single,Kush -> Alicia,0.0,0.111,0.0,0.889
+241.32,04:01,243.91,04:04,2.59,Riad,Kush,single,Riad -> Kush,0.0,0.187,0.713,0.099
+242.46,04:02,243.34,04:03,0.88,Kush,Alicia,single,Kush -> Alicia,0.297,0.101,0.0,0.602
+242.57,04:03,242.83,04:03,0.26,Alicia,Riad,single,Alicia -> Riad,0.864,0.039,0.096,0.0
+242.81,04:03,243.33,04:03,0.52,Max,Riad,single,Max -> Riad,0.74,0.0,0.188,0.072
+244.24,04:04,244.46,04:04,0.22,Riad,Max,single,Riad -> Max,0.0,0.636,0.26,0.104
+244.43,04:04,245.05,04:05,0.62,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+244.93,04:05,245.57,04:06,0.64,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+245.66,04:06,247.22,04:07,1.56,Kush,Alicia,single,Kush -> Alicia,0.0,0.155,0.0,0.845
+245.93,04:06,246.78,04:07,0.85,Alicia,Kush,single,Alicia -> Kush,0.0,0.094,0.906,0.0
+246.16,04:06,247.67,04:08,1.51,Riad,Alicia,single,Riad -> Alicia,0.0,0.271,0.113,0.616
+246.97,04:07,248.07,04:08,1.1,Alicia,Riad|Kush|Max,all,"Alicia -> Riad, Kush, Max (ALL)",0.357,0.319,0.324,0.0
+247.66,04:08,248.08,04:08,0.42,Kush,Alicia,single,Kush -> Alicia,0.045,0.039,0.0,0.916
+248.16,04:08,248.58,04:09,0.42,Riad,Max,single,Riad -> Max,0.0,0.603,0.393,0.004
+248.18,04:08,248.58,04:09,0.4,Max,Riad,single,Max -> Riad,0.994,0.0,0.006,0.0
+248.38,04:08,249.12,04:09,0.74,Kush,Alicia,single,Kush -> Alicia,0.0,0.152,0.0,0.848
+248.8,04:09,249.72,04:10,0.92,Riad,Kush,single,Riad -> Kush,0.0,0.269,0.712,0.019
+249.46,04:09,249.76,04:10,0.3,Kush,Alicia,single,Kush -> Alicia,0.401,0.031,0.0,0.568
+249.92,04:10,251.0,04:11,1.08,Kush,Alicia,single,Kush -> Alicia,0.0,0.1,0.0,0.9
+249.99,04:10,250.26,04:10,0.27,Riad,Kush,single,Riad -> Kush,0.0,0.018,0.979,0.003
+250.43,04:10,252.63,04:13,2.2,Riad,Kush,single,Riad -> Kush,0.0,0.099,0.805,0.097
+251.26,04:11,252.16,04:12,0.9,Kush,Riad,single,Kush -> Riad,0.859,0.027,0.0,0.115
+252.28,04:12,253.05,04:13,0.77,Alicia,Kush,single,Alicia -> Kush,0.326,0.037,0.637,0.0
+252.38,04:12,253.1,04:13,0.72,Kush,Alicia,single,Kush -> Alicia,0.095,0.008,0.0,0.896
+252.87,04:13,253.61,04:14,0.74,Riad,Max,single,Riad -> Max,0.0,0.786,0.047,0.167
+253.53,04:14,253.74,04:14,0.21,Kush,Alicia,single,Kush -> Alicia,0.0,0.022,0.0,0.978
+254.02,04:14,255.24,04:15,1.22,Kush,Alicia,single,Kush -> Alicia,0.0,0.114,0.0,0.886
+254.03,04:14,254.24,04:14,0.21,Riad,Kush,single,Riad -> Kush,0.0,0.0,0.963,0.037
+254.09,04:14,254.4,04:14,0.31,Alicia,Kush,single,Alicia -> Kush,0.0,0.001,0.999,0.0
+254.52,04:15,255.8,04:16,1.28,Riad,Kush|Max|Alicia,all,"Riad -> Kush, Max, Alicia (ALL)",0.0,0.313,0.48,0.207
+255.46,04:15,256.51,04:17,1.05,Kush,Alicia,single,Kush -> Alicia,0.113,0.147,0.0,0.741
+255.96,04:16,257.3,04:17,1.34,Riad,Max,single,Riad -> Max,0.0,0.556,0.25,0.194
+256.22,04:16,256.46,04:16,0.24,Max,Riad,single,Max -> Riad,0.921,0.0,0.075,0.004
+256.84,04:17,257.3,04:17,0.46,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+257.63,04:18,259.4,04:19,1.77,Kush,Riad|Alicia,group,"Kush -> Riad, Alicia (group)",0.531,0.06,0.0,0.409
+257.92,04:18,259.04,04:19,1.12,Riad,Alicia|Kush|Max,all,"Riad -> Alicia, Kush, Max (ALL)",0.0,0.234,0.283,0.483
+258.03,04:18,258.52,04:19,0.49,Alicia,Riad,single,Alicia -> Riad,0.609,0.026,0.365,0.0
+259.2,04:19,259.44,04:19,0.24,Alicia,Kush,single,Alicia -> Kush,0.109,0.195,0.696,0.0
+259.6,04:20,260.85,04:21,1.25,Kush,Alicia,single,Kush -> Alicia,0.239,0.162,0.0,0.6
+259.69,04:20,259.91,04:20,0.22,Max,Kush|Riad|Alicia,all,"Max -> Kush, Riad, Alicia (ALL)",0.288,0.0,0.49,0.223
+259.7,04:20,260.9,04:21,1.2,Alicia,Kush,single,Alicia -> Kush,0.287,0.132,0.582,0.0
+260.11,04:20,261.39,04:21,1.28,Riad,Max,single,Riad -> Max,0.0,0.819,0.061,0.12
+260.21,04:20,261.42,04:21,1.21,Max,Riad,single,Max -> Riad,0.97,0.0,0.016,0.014
+261.71,04:22,262.01,04:22,0.3,Max,Riad,single,Max -> Riad,0.711,0.0,0.289,0.0
+262.24,04:22,262.5,04:22,0.26,Kush,Alicia,single,Kush -> Alicia,0.061,0.267,0.0,0.672
+263.39,04:23,263.74,04:24,0.35,Kush,Alicia,single,Kush -> Alicia,0.0,0.119,0.0,0.881
+263.41,04:23,263.73,04:24,0.32,Alicia,Kush,single,Alicia -> Kush,0.0,0.001,0.999,0.0
+263.87,04:24,264.27,04:24,0.4,Riad,Max,single,Riad -> Max,0.0,0.926,0.038,0.037
+263.99,04:24,264.24,04:24,0.25,Max,Riad,single,Max -> Riad,0.998,0.0,0.001,0.0
+264.94,04:25,265.21,04:25,0.27,Riad,Kush,single,Riad -> Kush,0.0,0.0,0.938,0.062
+265.66,04:26,265.93,04:26,0.27,Riad,Kush,single,Riad -> Kush,0.0,0.33,0.67,0.0
+265.7,04:26,266.25,04:26,0.55,Kush,Alicia|Riad|Max,all,"Kush -> Alicia, Riad, Max (ALL)",0.339,0.27,0.0,0.392
+266.0,04:26,267.15,04:27,1.15,Max,Riad,single,Max -> Riad,0.898,0.0,0.04,0.062
+266.41,04:26,266.64,04:27,0.23,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+267.18,04:27,267.81,04:28,0.63,Kush,Alicia,single,Kush -> Alicia,0.028,0.066,0.0,0.906
+267.18,04:27,267.82,04:28,0.64,Alicia,Kush,single,Alicia -> Kush,0.044,0.102,0.855,0.0
+267.61,04:28,268.32,04:28,0.71,Riad,Max,single,Riad -> Max,0.0,0.944,0.019,0.036
+267.72,04:28,268.36,04:28,0.64,Max,Riad,single,Max -> Riad,0.867,0.0,0.081,0.052
+268.53,04:29,268.85,04:29,0.32,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+268.55,04:29,268.82,04:29,0.27,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+269.08,04:29,271.19,04:31,2.11,Kush,Alicia,single,Kush -> Alicia,0.095,0.108,0.0,0.798
+269.11,04:29,273.47,04:33,4.36,Alicia,Kush,single,Alicia -> Kush,0.108,0.191,0.701,0.0
+269.19,04:29,269.61,04:30,0.42,Riad,Alicia|Kush,group,"Riad -> Alicia, Kush (group)",0.0,0.123,0.427,0.45
+269.2,04:29,269.49,04:29,0.29,Max,Riad|Kush,group,"Max -> Riad, Kush (group)",0.46,0.0,0.37,0.17
+269.77,04:30,272.9,04:33,3.13,Max,Alicia|Kush|Riad,all,"Max -> Alicia, Kush, Riad (ALL)",0.258,0.0,0.304,0.437
+270.08,04:30,272.81,04:33,2.73,Riad,Max,single,Riad -> Max,0.0,0.642,0.18,0.178
+271.35,04:31,273.46,04:33,2.11,Kush,Alicia,single,Kush -> Alicia,0.131,0.256,0.0,0.612
+273.1,04:33,273.75,04:34,0.65,Riad,Max,single,Riad -> Max,0.0,0.818,0.119,0.063
+273.12,04:33,273.75,04:34,0.63,Max,Riad,single,Max -> Riad,0.849,0.0,0.099,0.053
+273.96,04:34,275.55,04:36,1.59,Kush,Alicia|Max,group,"Kush -> Alicia, Max (group)",0.145,0.314,0.0,0.541
+274.06,04:34,274.91,04:35,0.85,Alicia,Kush,single,Alicia -> Kush,0.184,0.133,0.683,0.0
+274.32,04:34,275.78,04:36,1.46,Riad,Max,single,Riad -> Max,0.0,0.705,0.11,0.185
+274.57,04:35,275.35,04:35,0.78,Max,Riad,single,Max -> Riad,0.791,0.0,0.083,0.126
+275.13,04:35,275.41,04:35,0.28,Alicia,Kush,single,Alicia -> Kush,0.372,0.018,0.609,0.0
+276.01,04:36,277.71,04:38,1.7,Alicia,Kush,single,Alicia -> Kush,0.251,0.154,0.596,0.0
+276.03,04:36,277.23,04:37,1.2,Kush,Alicia,single,Kush -> Alicia,0.093,0.08,0.0,0.828
+276.43,04:36,277.89,04:38,1.46,Max,Riad,single,Max -> Riad,0.71,0.0,0.12,0.17
+276.46,04:36,277.39,04:37,0.93,Riad,Max,single,Riad -> Max,0.0,0.782,0.091,0.127
+277.44,04:37,277.7,04:38,0.26,Kush,Alicia,single,Kush -> Alicia,0.035,0.009,0.0,0.955
+277.6,04:38,277.84,04:38,0.24,Riad,Max,single,Riad -> Max,0.0,0.99,0.006,0.004
+278.2,04:38,279.77,04:40,1.57,Riad,Kush|Max,group,"Riad -> Kush, Max (group)",0.0,0.349,0.491,0.16
+278.24,04:38,279.39,04:39,1.15,Kush,Alicia,single,Kush -> Alicia,0.159,0.109,0.0,0.732
+278.83,04:39,279.29,04:39,0.46,Alicia,Kush,single,Alicia -> Kush,0.006,0.012,0.982,0.0
+279.18,04:39,279.8,04:40,0.62,Max,Alicia|Riad,group,"Max -> Alicia, Riad (group)",0.463,0.0,0.006,0.531
+279.83,04:40,280.57,04:41,0.74,Kush,Alicia,single,Kush -> Alicia,0.001,0.0,0.0,0.999
+279.83,04:40,280.57,04:41,0.74,Alicia,Kush,single,Alicia -> Kush,0.015,0.0,0.985,0.0
+280.85,04:41,282.1,04:42,1.25,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.464,0.114,0.422
+280.88,04:41,281.5,04:42,0.62,Max,Riad,single,Max -> Riad,0.673,0.0,0.175,0.153
+280.96,04:41,281.65,04:42,0.69,Kush,Alicia,single,Kush -> Alicia,0.107,0.157,0.0,0.735
+280.96,04:41,282.09,04:42,1.13,Alicia,Kush|Max|Riad,all,"Alicia -> Kush, Max, Riad (ALL)",0.229,0.258,0.514,0.0
+281.68,04:42,282.11,04:42,0.43,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.474,0.0,0.139,0.387
+281.87,04:42,282.09,04:42,0.22,Kush,Alicia,single,Kush -> Alicia,0.013,0.011,0.0,0.977
+282.52,04:43,283.25,04:43,0.73,Kush,Alicia,single,Kush -> Alicia,0.101,0.013,0.0,0.886
+282.71,04:43,283.25,04:43,0.54,Alicia,Kush,single,Alicia -> Kush,0.046,0.0,0.954,0.0
+282.85,04:43,283.08,04:43,0.23,Riad,Max,single,Riad -> Max,0.0,0.686,0.222,0.092
+282.85,04:43,283.12,04:43,0.27,Max,Riad|Kush,group,"Max -> Riad, Kush (group)",0.506,0.0,0.343,0.151
+284.53,04:45,284.82,04:45,0.29,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+284.55,04:45,284.8,04:45,0.25,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+284.99,04:45,285.31,04:45,0.32,Riad,Max,single,Riad -> Max,0.0,0.834,0.082,0.084
+285.26,04:45,286.62,04:47,1.36,Kush,Alicia,single,Kush -> Alicia,0.068,0.081,0.0,0.851
+285.29,04:45,286.21,04:46,0.92,Alicia,Kush,single,Alicia -> Kush,0.026,0.022,0.952,0.0
+285.84,04:46,287.05,04:47,1.21,Riad,Max|Alicia,group,"Riad -> Max, Alicia (group)",0.0,0.544,0.181,0.275
+285.97,04:46,286.23,04:46,0.26,Max,Riad,single,Max -> Riad,0.99,0.0,0.003,0.007
+286.68,04:47,286.97,04:47,0.29,Max,Riad,single,Max -> Riad,0.999,0.0,0.001,0.0
+288.33,04:48,288.7,04:49,0.37,Riad,Max,single,Riad -> Max,0.0,0.968,0.032,0.0
+288.62,04:49,289.75,04:50,1.13,Kush,Alicia,single,Kush -> Alicia,0.0,0.134,0.0,0.866
+288.65,04:49,289.59,04:50,0.94,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+289.4,04:49,290.09,04:50,0.69,Riad,Max,single,Riad -> Max,0.0,0.857,0.06,0.083
+289.7,04:50,290.07,04:50,0.37,Max,Riad,single,Max -> Riad,0.998,0.0,0.002,0.0
+290.0,04:50,290.81,04:51,0.81,Kush,Alicia,single,Kush -> Alicia,0.0,0.18,0.0,0.82
+290.39,04:50,290.61,04:51,0.22,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+290.58,04:51,291.65,04:52,1.07,Riad,Max,single,Riad -> Max,0.0,0.777,0.111,0.112
+291.99,04:52,292.79,04:53,0.8,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+292.3,04:52,292.76,04:53,0.46,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+292.97,04:53,294.09,04:54,1.12,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+292.99,04:53,293.27,04:53,0.28,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+293.71,04:54,294.25,04:54,0.54,Riad,Max,single,Riad -> Max,0.0,0.973,0.027,0.0
+294.53,04:55,296.21,04:56,1.68,Riad,Max,single,Riad -> Max,0.0,0.791,0.075,0.133
+294.56,04:55,294.95,04:55,0.39,Max,Riad,single,Max -> Riad,0.903,0.0,0.024,0.073
+294.89,04:55,295.26,04:55,0.37,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.037,0.463,0.5,0.0
+295.21,04:55,296.14,04:56,0.93,Max,Riad,single,Max -> Riad,0.997,0.0,0.001,0.002
+296.95,04:57,297.43,04:57,0.48,Riad,Max,single,Riad -> Max,0.0,0.966,0.034,0.0
+296.97,04:57,297.46,04:57,0.49,Max,Riad,single,Max -> Riad,0.984,0.0,0.016,0.0
+297.62,04:58,299.43,04:59,1.81,Riad,Max,single,Riad -> Max,0.0,0.761,0.106,0.132
+297.67,04:58,298.06,04:58,0.39,Max,Riad|Alicia,group,"Max -> Riad, Alicia (group)",0.53,0.0,0.074,0.396
+297.91,04:58,298.13,04:58,0.22,Alicia,Riad|Max|Kush,all,"Alicia -> Riad, Max, Kush (ALL)",0.404,0.368,0.228,0.0
+298.23,04:58,299.42,04:59,1.19,Max,Riad,single,Max -> Riad,0.995,0.0,0.002,0.003
+299.59,05:00,300.16,05:00,0.57,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+299.66,05:00,300.33,05:00,0.67,Max,Riad,single,Max -> Riad,0.946,0.0,0.054,0.0
+300.45,05:00,301.33,05:01,0.88,Kush,Alicia,single,Kush -> Alicia,0.003,0.076,0.0,0.921
+300.45,05:00,301.33,05:01,0.88,Alicia,Kush,single,Alicia -> Kush,0.009,0.083,0.909,0.0
+300.87,05:01,302.59,05:03,1.72,Riad,Max,single,Riad -> Max,0.0,0.558,0.128,0.314
+301.03,05:01,302.55,05:03,1.52,Max,Riad,single,Max -> Riad,0.993,0.0,0.003,0.004
+303.18,05:03,303.64,05:04,0.46,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+303.19,05:03,303.64,05:04,0.45,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+304.04,05:04,304.67,05:05,0.63,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+305.51,05:06,305.97,05:06,0.46,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+305.54,05:06,305.94,05:06,0.4,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+307.12,05:07,307.77,05:08,0.65,Riad,Max,single,Riad -> Max,0.0,0.937,0.063,0.0
+307.2,05:07,308.16,05:08,0.96,Kush,Alicia|Riad,group,"Kush -> Alicia, Riad (group)",0.468,0.06,0.0,0.471
+307.22,05:07,307.6,05:08,0.38,Alicia,Kush,single,Alicia -> Kush,0.008,0.002,0.99,0.0
+307.83,05:08,308.42,05:08,0.59,Alicia,Kush,single,Alicia -> Kush,0.217,0.029,0.754,0.0
+308.71,05:09,309.59,05:10,0.88,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+308.74,05:09,309.14,05:09,0.4,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+309.39,05:09,309.98,05:10,0.59,Kush,Alicia,single,Kush -> Alicia,0.0,0.0,0.0,1.0
+309.65,05:10,309.89,05:10,0.24,Alicia,Kush,single,Alicia -> Kush,0.0,0.0,1.0,0.0
+309.99,05:10,312.06,05:12,2.07,Riad,Max,single,Riad -> Max,0.0,0.583,0.088,0.329
+310.2,05:10,311.94,05:12,1.74,Max,Alicia|Riad,group,"Max -> Alicia, Riad (group)",0.329,0.0,0.129,0.541
+310.53,05:11,311.21,05:11,0.68,Alicia,Kush|Max,group,"Alicia -> Kush, Max (group)",0.057,0.454,0.489,0.0
+311.49,05:11,312.36,05:12,0.87,Kush,Alicia,single,Kush -> Alicia,0.017,0.025,0.0,0.957
+311.52,05:12,311.97,05:12,0.45,Alicia,Riad,single,Alicia -> Riad,0.63,0.006,0.364,0.0
+312.53,05:13,313.47,05:13,0.94,Riad,Max,single,Riad -> Max,0.0,0.601,0.017,0.382
+312.65,05:13,313.51,05:14,0.86,Max,Riad,single,Max -> Riad,0.903,0.0,0.025,0.072
+313.32,05:13,313.58,05:14,0.26,Kush,Alicia|Riad|Max,all,"Kush -> Alicia, Riad, Max (ALL)",0.258,0.243,0.0,0.498
+313.72,05:14,314.13,05:14,0.41,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+313.73,05:14,314.12,05:14,0.39,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+313.93,05:14,315.43,05:15,1.5,Kush,Alicia,single,Kush -> Alicia,0.04,0.017,0.0,0.943
+313.94,05:14,315.42,05:15,1.48,Alicia,Kush,single,Alicia -> Kush,0.003,0.001,0.996,0.0
+315.62,05:16,317.03,05:17,1.41,Kush,Alicia,single,Kush -> Alicia,0.036,0.034,0.0,0.931
+315.64,05:16,316.75,05:17,1.11,Alicia,Kush,single,Alicia -> Kush,0.091,0.197,0.712,0.0
+316.36,05:16,317.04,05:17,0.68,Max,Riad,single,Max -> Riad,0.615,0.0,0.06,0.325
+316.37,05:16,318.37,05:18,2.0,Riad,Max,single,Riad -> Max,0.0,0.62,0.114,0.266
+317.23,05:17,317.86,05:18,0.63,Max,Riad,single,Max -> Riad,0.681,0.0,0.13,0.19
+318.02,05:18,318.3,05:18,0.28,Max,Riad,single,Max -> Riad,0.987,0.0,0.0,0.013
+318.05,05:18,321.93,05:22,3.88,Alicia,Kush,single,Alicia -> Kush,0.088,0.121,0.791,0.0
+318.33,05:18,321.93,05:22,3.6,Kush,Alicia,single,Kush -> Alicia,0.17,0.113,0.0,0.716
+320.15,05:20,320.38,05:20,0.23,Riad,Max,single,Riad -> Max,0.0,1.0,0.0,0.0
+320.16,05:20,320.38,05:20,0.22,Max,Riad,single,Max -> Riad,1.0,0.0,0.0,0.0
+320.71,05:21,321.93,05:22,1.22,Max,Kush|Riad|Alicia,all,"Max -> Kush, Riad, Alicia (ALL)",0.358,0.0,0.365,0.276
+320.87,05:21,321.16,05:21,0.29,Riad,Max|Kush|Alicia,all,"Riad -> Max, Kush, Alicia (ALL)",0.0,0.481,0.294,0.224
+321.65,05:22,321.93,05:22,0.28,Riad,Alicia|Kush|Max,all,"Riad -> Alicia, Kush, Max (ALL)",0.0,0.275,0.287,0.438

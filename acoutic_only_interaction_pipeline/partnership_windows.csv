@@ -1,0 +1,5 @@
+window_start_s,window_end_s,person_a,person_b,affinity_score,confidence
+0.0,180.0,Max,Riad,4.241,0.632
+0.0,180.0,Kush,Alicia,3.713,0.575
+180.0,321.93,Max,Riad,4.241,0.636
+180.0,321.93,Kush,Alicia,3.652,0.568
