@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # --------------------------------------------------
 # SETTINGS
 # --------------------------------------------------
-CSV_FILE = "speaker_proximity_results.csv"  # Input CSV file
+CSV_FILE = "piecewise_aligned_matches.csv"  # Input CSV file (or speaker_proximity_results.csv)
 OUTPUT_DIR = "plots"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -60,7 +60,6 @@ df_full = df_full[df_full[distance_col] > 0]
 # --------------------------------------------------
 # DYNAMIC 30% RANGE CLASSIFICATION (Pandas 2.0+ Compatible)
 # --------------------------------------------------
-# Using transform to calculate quantile thresholds per pair without dropping grouping columns
 df_full["p30"] = df_full.groupby([spk1_col, spk2_col])[distance_col].transform(lambda x: x.quantile(0.30))
 df_full["p70"] = df_full.groupby([spk1_col, spk2_col])[distance_col].transform(lambda x: x.quantile(0.70))
 
@@ -105,10 +104,13 @@ plt.savefig(os.path.join(OUTPUT_DIR, "01_all_4_speakers_timeline.png"), dpi=300)
 plt.close()
 
 # --------------------------------------------------
-# PLOT 2: DIRECTED INTERACTIONS GRID (4x3 MATRIX)
+# PLOT 2: DIRECTED INTERACTIONS GRID WITH HARD OVERRIDDEN Y-AXIS (0, 6, 12, 18, 24 ft)
 # --------------------------------------------------
 fig, axes = plt.subplots(4, 4, figsize=(16, 12), sharex=True, sharey=True)
 fig.suptitle("Pairwise Speaker Interactions Matrix (4 x 3 Directional Grid)", fontsize=16, fontweight="bold")
+
+# Determine global max in dataset to anchor top tick label position
+max_val = df_full[distance_col].max() if not df_full.empty else 1.0
 
 for i, spk_from in enumerate(ALL_SPEAKERS):
     for j, spk_to in enumerate(ALL_SPEAKERS):
@@ -129,8 +131,18 @@ for i, spk_from in enumerate(ALL_SPEAKERS):
             ax.set_title(f"{spk_from} → {spk_to}", fontsize=10, fontweight="bold")
             ax.grid(alpha=0.25)
 
+        # OVERRIDE Y-AXIS TICKS & LABELS TO 0, 6, 12, 18, 24 ft
+        ax.set_yticks([
+            0,
+            max_val * 0.25,
+            max_val * 0.50,
+            max_val * 0.75,
+            max_val
+        ])
+        ax.set_yticklabels(["0 ft", "6 ft", "12 ft", "18 ft", "24 ft"], fontsize=8)
+
         if j == 0:
-            ax.set_ylabel("Dist (ft)", fontsize=9)
+            ax.set_ylabel("Estimated Dist", fontsize=9)
         if i == 3:
             ax.set_xlabel("Time (s)", fontsize=9)
 
