@@ -1,0 +1,5 @@
+speaker,num_turns,total_speaking_s,pct_of_speech,avg_turn_s
+Riad,183,182.49,28.1,1.0
+Kush,180,178.53,27.4,0.99
+Alicia,184,148.35,22.8,0.81
+Max,213,141.05,21.7,0.66
